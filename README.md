@@ -6,16 +6,19 @@ This is a guide for my friends and myself to gain fitness and muscles. Let's mov
 
 ## 初级课表 Beginner's Timetable
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg" height="250" alt="guanzhang_time.jpg" /></div>
+<div align=center>
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg" height="250" alt="guanzhang_time.jpg" />
 
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
+</div>
 
 ## 常见错误 Common Mistakes
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png" height="250" alt="xiaoke.png" /></div>
+<div align=center>
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png" height="250" alt="xiaoke.png" />
 
 来源：[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
-
+</div>
 
 ## 二头肌动作 Biceps
 
@@ -53,7 +56,7 @@ Tricep Kickback
 
 引体向上
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixiangshang.jpg" height="250" alt="yintixiangshang.jpg" /></div>
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixiangshang.png" height="250" alt="yintixiangshang.png" /></div>
 
 哑铃划船（胸贴凳子）
 
