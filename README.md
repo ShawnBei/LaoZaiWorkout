@@ -1,15 +1,17 @@
-# LaoZaiWorkout
+# LaoZaiWorkout 捞仔健身
 
 这是我和朋友整理的健身动作和指导准则，大家一起加油吧！:muscle:
 
 This is a guide for my friends and myself to gain fitness and muscles. Let's move! :muscle:
 
-## 初级课表
+## 初级课表 Beginner's Timetable
 
 ￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg)
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 
-## 注意点 
+## 常见错误 Common Mistakes
+
+
 
 
 ## 二头肌动作
@@ -47,7 +49,7 @@ Tricep Kickback
 ## 背部动作
 
 引体向上
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixianghshang.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixianghshang.jpg)
 
 哑铃划船（胸贴凳子）
 ￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png)
