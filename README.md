@@ -95,7 +95,7 @@ Tricep Kickback
 
 站姿拉杆
 
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" width="150" height="200" alt="zhanzilagan.png" />
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" />
 
 ## 肩部动作 Shoulders
 
