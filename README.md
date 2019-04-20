@@ -12,7 +12,7 @@ This is a guide for my friends and myself to gain fitness and muscles. Let's mov
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 </div>
 
-## 常见错误 Common Mistakes
+## 注意事项 Dos and Don'ts
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png" height="250" alt="xiaoke.png" />
@@ -20,7 +20,9 @@ This is a guide for my friends and myself to gain fitness and muscles. Let's mov
 来源：[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
 </div>
 
-## 二头肌动作 Biceps
+## 动作大全 Movements Collection
+
+### 二头肌动作 Biceps
 
 杠铃弯举（二头外侧）
 
@@ -30,7 +32,7 @@ This is a guide for my friends and myself to gain fitness and muscles. Let's mov
 
 绳索弯举
 
-## 三头肌动作 Triceps
+### 三头肌动作 Triceps
 
 窄距卧推
 
@@ -44,15 +46,15 @@ Tricep Kickback
 
 负重双杠臂屈伸
 
-## 胸部动作 Chest
+### 胸部动作 Chest
 
 卧推
 
-## 腿部动作 Legs
+### 腿部动作 Legs
 
 深蹲
 
-## 背部动作 Back
+### 背部动作 Back
 
 **引体向上**
 
@@ -100,7 +102,7 @@ Tricep Kickback
 
 
 
-## 肩部动作 Shoulders
+### 肩部动作 Shoulders
 
 前肩站姿阿诺德推举
 
