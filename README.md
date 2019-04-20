@@ -6,13 +6,13 @@ This is a guide for my friends and myself to gain fitness and muscles. Let's mov
 
 ## 初级课表 Beginner's Timetable
 
-￼![guanzhang](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg" height="250" alt="guanzhang_time.jpg" /></div>
 
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 
 ## 常见错误 Common Mistakes
 
-￼![xiaoke](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png" height="250" alt="xiaoke.png" /></div>
 
 来源：[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
 
@@ -53,49 +53,49 @@ Tricep Kickback
 
 引体向上
 
-￼![yintixiangshang.jpg](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixiangshang.jpg)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixiangshang.jpg" height="250" alt="yintixiangshang.jpg" /></div>
 
 哑铃划船（胸贴凳子）
 
-￼![yalinghuachuan.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png" height="250" alt="yalinghuachuan.png" /></div>
 
 单手哑铃划船
 
-￼![danshouyalinghuachuan.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/danshouyalinghuachuan.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/danshouyalinghuachuan.png" height="250" alt="danshouyalinghuachuan.png" /></div>
 
 杠铃划船
 
-￼![ganglinghuachuan.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
 
 罗马尼亚硬拉
 
 主练大腿后侧腘绳肌（股二头肌）与臀部，重量要小于屈腿硬拉。
 
-￼![luomaniya.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
 
 直腿硬拉（练下背）
 
 主练背部后侧链，下背部感觉强烈。
 
-￼![zhitui.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>
 
 屈腿硬拉
 
 重量最大的硬拉。
 
-￼![qutui.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
 
 高位下拉
 
-￼![gaoweixiala.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
 
 坐姿划船
 
-￼![zuozihuachuan.png](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png)
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
 
 站姿拉杆
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" />
+
 
 ## 肩部动作 Shoulders
 
