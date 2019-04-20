@@ -24,98 +24,98 @@ This is a guide for my friends and myself to gain fitness. Let's build muscles t
 
 ### 背部动作 Back
 
-**引体向上 Pull-up**
+**1. 引体向上 Pull-up**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixiangshang.png" height="250" alt="yintixiangshang.png" /></div>
 
-**哑铃划船（胸贴凳子）**
+**2. 哑铃划船（胸贴凳子）**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png" height="250" alt="yalinghuachuan.png" /></div>
 
-**单手哑铃划船**
+**3. 单手哑铃划船**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/danshouyalinghuachuan.png" height="250" alt="danshouyalinghuachuan.png" /></div>
 
-**杠铃划船**
+**4. 杠铃划船**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
 
-**罗马尼亚硬拉**
+**5. 罗马尼亚硬拉**
 
 主练大腿后侧腘绳肌（股二头肌）与臀部，重量要小于屈腿硬拉。
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
 
-**直腿硬拉（练下背）**
+**6. 直腿硬拉（练下背）**
 
 主练背部后侧链，下背部感觉强烈。
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>
 
-**屈腿硬拉**
+**7. 屈腿硬拉**
 
 重量最大的硬拉。
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
 
-**高位下拉**
+**8. 高位下拉**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
 
-**坐姿划船**
+**9. 坐姿划船**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
 
-**站姿拉杆**
+**10. 站姿拉杆**
 
 
 ### 二头肌动作 Biceps
 
-杠铃弯举（二头外侧）
+**1. 杠铃弯举（二头外侧）**
 
-哑铃反向弯举
+**2. 哑铃反向弯举**
 
-锤式弯举
+**3. 锤式弯举**
 
-绳索弯举
+**4. 绳索弯举**
 
 ### 三头肌动作 Triceps
 
-窄距卧推
+**1. 窄距卧推**
 
-窄距俯卧撑
+**2. 窄距俯卧撑**
 
-法式仰卧推举
+**3. 法式仰卧推举**
 
-Tricep Kickback
+**4. Tricep Kickback**
 
-垂绳下拉
+**5. 垂绳下拉**
 
-负重双杠臂屈伸
+**6. 负重双杠臂屈伸**
 
 ### 肩部动作 Shoulders
 
-前肩站姿阿诺德推举
+**1. 前肩站姿阿诺德推举**
 
-坐姿直臂举哑铃
+**2. 坐姿直臂举哑铃**
 
-L型肩上举
+**3. L型肩上举**
 
-哑铃侧平举
+**4. 哑铃侧平举**
 
-站姿飞鸟横握哑铃
+**5. 站姿飞鸟横握哑铃**
 
-屈身cable machine单手侧拉（后三角肌）
+**6. 屈身cable machine单手侧拉（后三角肌）**
 
-站姿cable machine单手固定另外手侧拉
+**7. 站姿cable machine单手固定另外手侧拉**
 
 ### 胸部动作 Chest
 
-**卧推**
+**1. 卧推**
 
 ### 腿部动作 Legs
 
-**深蹲 Squat**
+**1. 深蹲 Squat**
 
 
 
