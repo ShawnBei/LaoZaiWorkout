@@ -59,7 +59,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 **6. 直腿硬拉（练下背）**
 
-主练背部后侧链，下背部感觉强烈。
+主练背部后侧链，下背部感觉会更强烈。
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>
 
@@ -101,6 +101,9 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **4. Tricep Kickback**
 
 **5. 垂绳下拉**
+
+- 固定上臂不动
+- 前倾身体可以加大下臂的摆动幅度
 
 **6. 负重双杠臂屈伸**
 
