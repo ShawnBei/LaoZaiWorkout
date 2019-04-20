@@ -49,7 +49,7 @@ Tricep Kickback
 ## 背部动作
 
 引体向上
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixianghshang.jpg)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixiangshang.jpg)
 
 哑铃划船（胸贴凳子）
 ￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png)
