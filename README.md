@@ -4,7 +4,7 @@
 
 This is a guide for my friends and myself to gain fitness, including all the movements and suggestions we think are helpfull. We aim to update the guide with our new knowledge of fitness.  Let's build muscles together! :muscle:
 
-*[初级课表](# 初级课表 Beginner's Timetable)
+*[初级课表](#初级课表-Beginner's-Timetable)
 
 
 ## 初级课表 Beginner's Timetable
