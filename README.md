@@ -111,7 +111,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 **5. 垂绳下拉**
 
-- 此动作训练的是三头肌中的长头
+- 此动作主练的是三头肌中的长头（单关节动作）
 - 固定上臂不动，可以更好地孤立三头肌
 - 前倾身体，可以加大下臂的摆动幅度，达到更好的锻炼效果
 
@@ -136,6 +136,8 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 ### 胸部动作 Chest
 
 **1. 卧推**
+
+- 对肩部压力较大，不建议和肩部前后天训练
 
 ### 腿部动作 Legs
 
