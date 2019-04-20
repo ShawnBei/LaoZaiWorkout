@@ -54,7 +54,7 @@ Tricep Kickback
 
 ## 背部动作 Back
 
-引体向上
+**引体向上**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixiangshang.png" height="250" alt="yintixiangshang.png" /></div>
 
@@ -70,7 +70,7 @@ Tricep Kickback
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
 
-罗马尼亚硬拉
+**罗马尼亚硬拉**
 
 主练大腿后侧腘绳肌（股二头肌）与臀部，重量要小于屈腿硬拉。
 
