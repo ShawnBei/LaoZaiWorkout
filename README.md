@@ -1,4 +1,4 @@
-# LaoZaiWorkout 捞仔健身
+# LaoZaiWorkout 捞仔变形手册
 
 这是我和朋友整理的健身动作和指导准则，大家一起加油吧！:muscle:
 
