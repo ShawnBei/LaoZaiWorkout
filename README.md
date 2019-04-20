@@ -31,6 +31,8 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 来源：[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
 </div>
 
+- 在做**孤立肌群/单关节动作**时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
+
 ## 动作大全 Movements Collection
 
 ### 背部动作 Back
@@ -53,19 +55,20 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 **5. 罗马尼亚硬拉**
 
-主练大腿后侧腘绳肌（股二头肌）与臀部，重量要小于屈腿硬拉。
+- 主练大腿后侧腘绳肌（股二头肌）与臀部
+- 重量要小于屈腿硬拉
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
 
 **6. 直腿硬拉（练下背）**
 
-主练背部后侧链，下背部感觉会更强烈。
+- 主练背部后侧链，下背部感觉会更强烈
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>
 
 **7. 屈腿硬拉**
 
-重量最大的硬拉。
+- 重量最大的硬拉
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
 
@@ -82,6 +85,8 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 ### 二头肌动作 Biceps
 
+知乎大佬详解二头肌： [（肱二头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40606370)
+
 **1. 杠铃弯举（二头外侧）**
 
 **2. 哑铃反向弯举**
@@ -91,6 +96,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **4. 绳索弯举**
 
 ### 三头肌动作 Triceps
+
+三头肌又称肱三头肌，分为外侧头、内侧头和长头。
+
+知乎大佬详解三头肌：[（肱三头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40610317)
 
 **1. 窄距卧推**
 
@@ -102,8 +111,9 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 **5. 垂绳下拉**
 
-- 固定上臂不动
-- 前倾身体可以加大下臂的摆动幅度
+- 此动作训练的是三头肌中的长头
+- 固定上臂不动，可以更好地孤立三头肌
+- 前倾身体，可以加大下臂的摆动幅度，达到更好的锻炼效果
 
 **6. 负重双杠臂屈伸**
 
