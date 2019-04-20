@@ -2,7 +2,7 @@
 
 这是我和朋友整理的健身动作和指导准则，大家一起加油吧！:muscle:
 
-This is a guide for my friends and myself to gain fitness and muscles. Let's move! :muscle:
+This is a guide for my friends and myself to gain fitness. Let's build muscles together! :muscle:
 
 ## 初级课表 Beginner's Timetable
 
