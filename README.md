@@ -1,12 +1,13 @@
 # LaoZaiWorkout
 
 这是我和朋友整理的健身动作和指导准则，大家一起加油吧！:muscle:
+
 This is a guide for my friends and myself to gain fitness and muscles. Let's move! :muscle:
 
 ## 初级课表
 
 ￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg)
-来源：
+来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 
 ## 注意点 
 
@@ -46,37 +47,37 @@ Tricep Kickback
 ## 背部动作
 
 引体向上
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/yintixianghshang.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yintixianghshang.png)
 
 哑铃划船（胸贴凳子）
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/yalinghuachuan.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png)
 
 单手哑铃划船
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/danshouyalinghuachuan.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/danshouyalinghuachuan.png)
 
 杠铃划船
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/ganglinghuachuan.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png)
 
 罗马尼亚硬拉
 主练大腿后侧腘绳肌（股二头肌）与臀部，重量要小于屈腿硬拉。
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/luomaniya.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png)
 
 直腿硬拉（练下背）
 主练背部后侧链，下背部感觉强烈。
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/zhitui.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png)
 
 屈腿硬拉
 重量最大的硬拉。
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/qutui.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png)
 
 高位下拉
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/gaoweixiala.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png)
 
 坐姿划船
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/zuozihuachuan.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png)
 
 站姿拉杆
-￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/back/zhanzilagan.png)
+￼![alt text](https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhanzilagan.png)
 
 ## 肩部动作
 
