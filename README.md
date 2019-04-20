@@ -4,15 +4,15 @@
 
 This is a guide for my friends and myself to gain fitness, including all the movements and suggestions we think are helpfull. We aim to update the guide with our new knowledge of fitness.  Let's build muscles together! :muscle:
 
-- [初级课表 Beginner's Timetable](#初级课表-Beginner's-Timetable)
-- [注意事项 Dos and Don'ts](#注意事项-Dos-and-Don'ts)
-- [动作大全 Movements Collection](#动作大全-Movements-Collection)
-    - [背部动作 Back](#背部动作-Back)
-    - [二头肌动作 Biceps](#二头肌动作-Biceps)
-    - [ 三头肌动作 Triceps](#三头肌动作-Triceps)
-    - [ 肩部动作 Shoulders](#肩部动作-Shoulders)
-    - [胸部动作 Chest](#胸部动作-Chest)
-    - [腿部动作 Legs](#腿部动作-Legs)
+- [初级课表 Beginner's Timetable](#初级课表-beginners-timetable)
+- [注意事项 Dos and Don'ts](#注意事项-dos-and-donts)
+- [动作大全 Movements Collection](#动作大全-movements-collection)
+    - [背部动作 Back](#背部动作-back)
+    - [二头肌动作 Biceps](#二头肌动作-biceps)
+    - [ 三头肌动作 Triceps](#三头肌动作-triceps)
+    - [ 肩部动作 Shoulders](#肩部动作-shoulders)
+    - [胸部动作 Chest](#胸部动作-chest)
+    - [腿部动作 Legs](#腿部动作-legs)
 
 
 ## 初级课表 Beginner's Timetable
