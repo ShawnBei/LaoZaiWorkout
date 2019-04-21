@@ -14,7 +14,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
     - [胸部动作 Chest](#胸部动作-chest)
     - [腿部动作 Legs](#腿部动作-legs)
 - [身体的奥秘 Secrets of Body](#身体的奥秘-secrets-of-body)
-
+- [饮食 Diet](#饮食-diet)
 
 
 
@@ -41,7 +41,6 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 </div>
 
 - 在做**孤立肌群/单关节**动作时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
-
 
 
 
@@ -207,3 +206,43 @@ Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://
 
 > - 牛肉（红肉）的营养价值远高于鸡肉
 > - 睡眠呼吸暂停征（Sleep Apnea），会升高血压、增加患心脏方面的疾病的概率，可以使用CPAP在睡眠时扩张呼吸道，从而避免打鼾。（睡醒感觉疲惫，打鼾严重，极有可能患有睡眠呼吸暂停）
+
+
+## 饮食 Diet
+
+- 晒太阳可以补充维生素D
+
+### 肉类
+
+**1. 牛肉**
+
+**2. 鸡肉**
+
+**3. 三文鱼**
+
+
+### 蔬菜
+
+**1. 西兰花**
+
+**2. 西红柿**
+
+
+
+### 水果
+
+**1. 草莓**
+
+**2. 香蕉**
+
+
+
+
+### 主食
+
+**1. 大米**
+
+**2. 面条**
+
+
+
