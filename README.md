@@ -40,7 +40,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 来源：健助师小珂-[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
 </div>
 
-- 在做**孤立肌群/单关节动作**时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
+- 在做**孤立肌群/单关节**动作时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
 
 
 
@@ -206,4 +206,4 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://www.youtube.com/watch?v=BeOc7TRo9Os&list=LL8Fx57eOFoHAaTHtt8vKbDg&index=82&t=6979s)
 
 > - 牛肉（红肉）的营养价值远高于鸡肉
-> - 睡眠呼吸暂停征（Sleep Apnea），会升高血压、增加患心脏方面的疾病的概率，可以使用CPAP来供氧。（睡醒感觉疲惫，打鼾严重，极有可能有睡眠呼吸暂停）
+> - 睡眠呼吸暂停征（Sleep Apnea），会升高血压、增加患心脏方面的疾病的概率，可以使用CPAP在睡眠时扩张呼吸道，从而避免打鼾。（睡醒感觉疲惫，打鼾严重，极有可能患有睡眠呼吸暂停）
