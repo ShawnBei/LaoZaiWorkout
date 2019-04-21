@@ -202,3 +202,8 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 知乎大佬详解二头肌： [（肱二头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40606370)
+
+Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://www.youtube.com/watch?v=BeOc7TRo9Os&list=LL8Fx57eOFoHAaTHtt8vKbDg&index=82&t=6979s)
+
+> - 牛肉（红肉）的营养价值远高于鸡肉
+> - 睡眠呼吸暂停征（Sleep Apnea），会升高血压、增加心脏方面的疾病，可以使用CPAP来供氧。（睡醒感觉疲惫，打鼾严重，极有可能有睡眠呼吸暂停）
