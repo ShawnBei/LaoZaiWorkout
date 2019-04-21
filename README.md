@@ -13,6 +13,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
     - [ 肩部动作 Shoulders](#肩部动作-shoulders)
     - [胸部动作 Chest](#胸部动作-chest)
     - [腿部动作 Legs](#腿部动作-legs)
+- [身体的奥秘 Secrets of Body](#身体的奥秘-secrets-of-body)
 
 
 ## 初级课表 Beginner's Timetable
@@ -28,7 +29,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png" height="250" alt="xiaoke.png" />
 
-来源：[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
+来源：健助师小珂-[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
 </div>
 
 - 在做**孤立肌群/单关节动作**时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
@@ -119,6 +120,12 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 ### 肩部动作 Shoulders
 
+**教程**
+
+健助师小珂-[如何把肩练大？第一次展示我的练肩神器（全程解析）](https://www.youtube.com/watch?v=HGnevk1zsCA)
+
+>包含动作： 
+
 **1. 前肩站姿阿诺德推举**
 
 **2. 坐姿直臂举哑铃**
@@ -135,6 +142,12 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 ### 胸部动作 Chest
 
+**教程**
+
+健助师小珂-[如何练出完美下胸？（快速增强卧推神器首秀！）](https://www.youtube.com/watch?v=OuLz7fZ_WwQ&t=642s)
+
+> 包含动作：
+
 **1. 卧推**
 
 - 对肩部压力较大，不建议和肩部前后天训练
@@ -145,8 +158,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 
-## 身体的奥秘 Secret of Body
+## 身体的奥秘 Secrets of Body
 
 丁香园莫然：[为什么胖都胖在腰部？](https://m.dxy.com/column/2493)
 
-> 摘录：也就是说，成年后再减肥，只是脂肪细胞体积的萎缩，并不会减少脂肪细胞的数量。更残酷的是腹部 由于有大量脂肪细胞的存在，一旦「胖」就会特别显眼。所以，好身材要从「娃娃」抓起。 
+> 摘录：也就是说，成年后再减肥，只是脂肪细胞体积的萎缩，并不会减少脂肪细胞的数量。更残酷的是腹部由于有大量脂肪细胞的存在，一旦「胖」就会特别显眼。所以，好身材要从「娃娃」抓起。 
+
+
