@@ -16,6 +16,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 - [身体的奥秘 Secrets of Body](#身体的奥秘-secrets-of-body)
 
 
+
+
+
+
 ## 初级课表 Beginner's Timetable
 
 <div align=center>
@@ -23,6 +27,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 </div>
+
+
+
+
 
 ## 注意事项 Dos and Don'ts
 
@@ -33,6 +41,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 </div>
 
 - 在做**孤立肌群/单关节动作**时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
+
+
+
+
 
 ## 动作大全 Movements Collection
 
@@ -84,6 +96,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **10. 站姿拉杆**
 
 
+
+
+
+
 ### 二头肌动作 Biceps
 
 知乎大佬详解二头肌： [（肱二头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40606370)
@@ -95,6 +111,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **3. 锤式弯举**
 
 **4. 绳索弯举**
+
+
+
+
 
 ### 三头肌动作 Triceps
 
@@ -118,13 +138,11 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 **6. 负重双杠臂屈伸**
 
+
+
+
+
 ### 肩部动作 Shoulders
-
-**教程**
-
-健助师小珂-[如何把肩练大？第一次展示我的练肩神器（全程解析）](https://www.youtube.com/watch?v=HGnevk1zsCA)
-
->包含动作： 
 
 **1. 前肩站姿阿诺德推举**
 
@@ -140,21 +158,37 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 **7. 站姿cable machine单手固定另外手侧拉**
 
+**肩部训练教程**
+
+健助师小珂-[如何把肩练大？第一次展示我的练肩神器（全程解析）](https://www.youtube.com/watch?v=HGnevk1zsCA)
+
+>包含动作： 
+
+
+
+
+
 ### 胸部动作 Chest
-
-**教程**
-
-健助师小珂-[如何练出完美下胸？（快速增强卧推神器首秀！）](https://www.youtube.com/watch?v=OuLz7fZ_WwQ&t=642s)
-
-> 包含动作：
 
 **1. 卧推**
 
 - 对肩部压力较大，不建议和肩部前后天训练
 
+**胸部训练教程**
+
+健助师小珂-[如何练出完美下胸？（快速增强卧推神器首秀！）](https://www.youtube.com/watch?v=OuLz7fZ_WwQ&t=642s)
+
+> 包含动作：
+
+
+
+
 ### 腿部动作 Legs
 
 **1. 深蹲 Squat**
+
+
+
 
 
 
