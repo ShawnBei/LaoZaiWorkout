@@ -194,7 +194,8 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 丁香园莫然：[为什么胖都胖在腰部？](https://m.dxy.com/column/2493)
 
-> 成年后再减肥，只是脂肪细胞体积的萎缩，并不会减少脂肪细胞的数量。更残酷的是腹部由于有大量脂肪细胞的存在，一旦「胖」就会特别显眼。所以，好身材要从「娃娃」抓起。 
+> - 成年后再减肥，只是脂肪细胞体积的萎缩，并不会减少脂肪细胞的数量。更残酷的是腹部由于有大量脂肪细胞的存在，一旦「胖」就会特别显眼。所以，好身材要从「娃娃」抓起。 
+> - 男女生发胖的不同点（不同性激素的作用）
 
 
 知乎大佬详解三头肌：[（肱三头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40610317)
@@ -206,6 +207,12 @@ Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://
 
 > - 牛肉（红肉）的营养价值远高于鸡肉
 > - 睡眠呼吸暂停征（Sleep Apnea），会升高血压、增加患心脏方面的疾病的概率，可以使用CPAP在睡眠时扩张呼吸道，从而避免打鼾。（睡醒感觉疲惫，打鼾严重，极有可能患有睡眠呼吸暂停）
+
+
+如何选择一款适合自己的CPAP呼吸机：[How to choose… Positive Airway Pressure (PAP) therapy](https://snorer.com/information-guides/choose-positive-airway-pressure-pap-therapy/)
+
+> - 在睡眠时如果有打开s嘴巴习惯的人，将不适合鼻罩（nasal mask），而需要全脸罩（full face mask）或者口鼻罩（oro-nasal mask）
+> - 呼吸机工作的原理
 
 
 ## 饮食 Diet
