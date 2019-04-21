@@ -161,7 +161,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 健助师小珂-[如何把肩练大？第一次展示我的练肩神器（全程解析）](https://www.youtube.com/watch?v=HGnevk1zsCA)
 
->包含动作： 哑铃侧平举、坐姿直臂举哑铃
+>包含动作： 哑铃侧平举、坐姿直臂举哑铃、杠铃前平举、杠铃提拉、T-bar稳定推举（前束）、Cable Machine上提外旋（后束、中束）
 
 
 
