@@ -102,8 +102,6 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 ### 二头肌动作 Biceps
 
-知乎大佬详解二头肌： [（肱二头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40606370)
-
 **1. 杠铃弯举（二头外侧）**
 
 **2. 哑铃反向弯举**
@@ -117,10 +115,6 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 ### 三头肌动作 Triceps
-
-三头肌又称肱三头肌，分为外侧头、内侧头和长头。
-
-知乎大佬详解三头肌：[（肱三头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40610317)
 
 **1. 窄距卧推**
 
@@ -148,6 +142,11 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 **2. 坐姿直臂举哑铃**
 
+<div align=center>
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Shoulder/zhibijuyaling1.png" height="250" alt="zhibijuyaling1" />
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Shoulder/zhibijuyaling2.png" height="250" alt="zhibijuyaling2" />
+</div>
+
 **3. L型肩上举**
 
 **4. 哑铃侧平举**
@@ -162,7 +161,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 健助师小珂-[如何把肩练大？第一次展示我的练肩神器（全程解析）](https://www.youtube.com/watch?v=HGnevk1zsCA)
 
->包含动作： 
+>包含动作： 哑铃侧平举、坐姿直臂举哑铃
 
 
 
@@ -199,3 +198,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 > 摘录：也就是说，成年后再减肥，只是脂肪细胞体积的萎缩，并不会减少脂肪细胞的数量。更残酷的是腹部由于有大量脂肪细胞的存在，一旦「胖」就会特别显眼。所以，好身材要从「娃娃」抓起。 
 
 
+知乎大佬详解三头肌：[（肱三头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40610317)
+
+
+知乎大佬详解二头肌： [（肱二头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40606370)
