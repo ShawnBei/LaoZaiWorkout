@@ -145,4 +145,8 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 
+## 身体的奥秘 Secret of Body
 
+丁香园莫然：[为什么胖都胖在腰部？](https://m.dxy.com/column/2493)
+
+> 摘录：也就是说，成年后再减肥，只是脂肪细胞体积的萎缩，并不会减少脂肪细胞的数量。更残酷的是腹部 由于有大量脂肪细胞的存在，一旦「胖」就会特别显眼。所以，好身材要从「娃娃」抓起。 
