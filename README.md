@@ -170,6 +170,8 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 
 
+
+
 ### 肩部动作 Shoulders
 
 **1. 前肩站姿阿诺德推举**
@@ -201,6 +203,8 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 
 
+
+
 ### 胸部动作 Chest
 
 **1. 卧推**
@@ -216,11 +220,17 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 
 
+
+
+
 ### 腿部动作 Legs
 
-**1. 深蹲 Squat**
+**1. 深蹲 Back Squat**
 
-**2. 罗马尼亚硬拉**
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Leg/backsquat.png" height="250" alt="backsquat.png" />
+</div>
+
+**2. 罗马尼亚硬拉 Romania Deadlift**
 
 - 主练大腿后侧腘绳肌（股二头肌）与臀部
 - 重量要小于屈腿硬拉
@@ -232,6 +242,13 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 - 重量最大的硬拉
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
+
+
+**腿部训练教程**
+    
+Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower Split)](https://www.youtube.com/watch?v=_kLBi8tF6Kk)
+
+> 包含动作：Stretching、Back Squat、着重克服动作的罗马尼亚硬拉 Eccentric Accentuated Romania Deadlift、Walking Lunge Dropset、Single Leg Eccentric Leg Extension、Lying Leg Curl、Straight Leg Calf Raise、Cable Crunch（focus on spain）
 
 
 
