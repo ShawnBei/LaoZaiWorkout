@@ -227,6 +227,8 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 **1. 深蹲 Back Squat**
 
+- Hip below knee joint when talking about depth
+
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Leg/backsquat.png" height="250" alt="backsquat.png" />
 </div>
 
@@ -248,7 +250,7 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
     
 Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower Split)](https://www.youtube.com/watch?v=_kLBi8tF6Kk)
 
-> 包含动作：Stretching、Back Squat、着重克服动作的罗马尼亚硬拉 Eccentric Accentuated Romania Deadlift、Walking Lunge Dropset、Single Leg Eccentric Leg Extension、Lying Leg Curl、Straight Leg Calf Raise、Cable Crunch（focus on spain）
+> 包含动作：Warm up (Stairmaster 5m)、Stretching (3m-4m)、Back Squat、着重克服动作的罗马尼亚硬拉 Eccentric Accentuated Romania Deadlift、Walking Lunge Dropset、Single Leg Eccentric Leg Extension、Lying Leg Curl、Straight Leg Calf Raise、Cable Crunch（focus on spain）
 
 
 
