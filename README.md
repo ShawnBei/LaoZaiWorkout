@@ -227,7 +227,7 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 **1. 深蹲 Back Squat**
 
-- Hip below knee joint when talking about depth
+- Hip below knee joint 
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Leg/backsquat.png" height="250" alt="backsquat.png" />
 </div>
