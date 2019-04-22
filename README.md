@@ -65,37 +65,24 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
 
-**5. 罗马尼亚硬拉**
-
-- 主练大腿后侧腘绳肌（股二头肌）与臀部
-- 重量要小于屈腿硬拉
-
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
-
-**6. 直腿硬拉（练下背）**
+**5. 直腿硬拉（练下背）**
 
 - 主练背部后侧链，下背部感觉会更强烈
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>
 
-**7. 屈腿硬拉**
-
-- 重量最大的硬拉
-
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
-
-**8. 绳索下拉（宽距/窄距）**
+**6. 坐姿绳索下拉（宽距/窄距）**
 
 - 增加背部的宽度
 
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
 
-**9. 坐姿划船**
+**7. 坐姿划船**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
 
-**10. 站姿拉杆**
+**8. 站姿拉杆**
 
 
 **背部训练教程**
@@ -106,9 +93,12 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 
 
+
+
+
 ### 二头肌动作 Biceps
 
-**1. 杠铃弯举（二头外侧）**
+**1. 曲杆杠铃弯举（主练外侧）**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/ganglingwanju1.png" height="250" alt="zhanzilagan.png" />
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/ganglingwanju2.png" height="250" alt="zhanzilagan.png" />
@@ -117,17 +107,30 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 **2. 哑铃反向弯举**
 
+<div align=center>
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingfanxiangwanju.png" height="250" alt="zhanzilagan.png" />
+</div>
+
 **3. 锤式弯举**
 
 **4. 绳索弯举**
 
+**5. 站姿哑铃弯举**
+
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingwanju1.png" height="250" alt="zhanzilagan.png" />
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingwanju2.png" height="250" alt="zhanzilagan.png" />
+</div>
+
+
 
 **二头训练教程**
 
-
 KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=iRpSiRZ5alY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=3&t=0s)
 
-> 包含动作：单臂上臂贴板弯举、站姿哑铃弯举、站姿哑铃单臂前置弯举（主练内侧）、坐姿哑铃后置弯举（主练外侧）、站姿锤式弯举（主练外侧）、站姿杠铃弯举（主练外侧）
+> 包含动作：单臂牧师凳弯举、站姿哑铃弯举、站姿哑铃单臂前置弯举（主练内侧）、坐姿哑铃后置弯举（主练外侧）、站姿锤式弯举（主练外侧）、站姿杠铃弯举（主练外侧）
+
+
+
 
 
 ### 三头肌动作 Triceps
@@ -202,8 +205,18 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 **1. 深蹲 Squat**
 
+**2. 罗马尼亚硬拉**
 
+- 主练大腿后侧腘绳肌（股二头肌）与臀部
+- 重量要小于屈腿硬拉
 
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
+
+**3. 屈腿硬拉**
+
+- 重量最大的硬拉
+
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
 
 
 
