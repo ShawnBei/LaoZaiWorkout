@@ -4,7 +4,7 @@
 
 This is a guide for my friends and myself to gain fitness, including all the movements and suggestions we think are useful. We aim to update the guide with our new knowledge of fitness.  Let's build muscles together! :muscle:
 
-- [初级课表 Beginner's Timetable](#初级课表-beginners-timetable)
+- [初级课表 Beginner's Program](#初级课表-beginners-program)
 - [注意事项 Dos and Don'ts](#注意事项-dos-and-donts)
 - [动作大全 Movements Collection](#动作大全-movements-collection)
     - [背部动作 Back](#背部动作-back)
@@ -20,7 +20,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 
-## 初级课表 Beginner's Timetable
+## 初级课表 Beginner's Program
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg" height="250" alt="guanzhang_time.jpg" />
@@ -84,7 +84,10 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
 
-**8. 高位下拉**
+**8. 绳索下拉（宽距/窄距）**
+
+- 增加背部的宽度
+
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
 
@@ -95,13 +98,22 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **10. 站姿拉杆**
 
 
+**背部训练教程**
 
+shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣地亚哥漫展Vlog，以及全天的训练饮食.](https://www.youtube.com/watch?v=6cYhts7FHS4&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=4&t=779s)
+
+> 包含动作：引体向上、杠铃划船、坐姿绳索窄握下拉、仰卧绳索面拉、山羊挺身划船
 
 
 
 ### 二头肌动作 Biceps
 
 **1. 杠铃弯举（二头外侧）**
+
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/ganglingwanju1.png" height="250" alt="zhanzilagan.png" />
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/ganglingwanju2.png" height="250" alt="zhanzilagan.png" />
+</div>
+
 
 **2. 哑铃反向弯举**
 
@@ -110,7 +122,12 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **4. 绳索弯举**
 
 
+**二头训练教程**
 
+
+KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=iRpSiRZ5alY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=3&t=0s)
+
+> 包含动作：单臂上臂贴板弯举、站姿哑铃弯举、站姿哑铃单臂前置弯举（主练内侧）、坐姿哑铃后置弯举（主练外侧）、站姿锤式弯举（主练外侧）、站姿杠铃弯举（主练外侧）
 
 
 ### 三头肌动作 Triceps
