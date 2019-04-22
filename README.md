@@ -113,6 +113,9 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 **3. 锤式弯举**
 
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/chuishi.png" height="250" alt="zhanzilagan.png" />
+</div>
+
 **4. 绳索弯举**
 
 **5. 站姿哑铃弯举**
