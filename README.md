@@ -121,6 +121,18 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingwanju2.png" height="250" alt="zhanzilagan.png" />
 </div>
 
+**6. 牧师凳单臂弯举**
+
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingwanju1.png" height="250" alt="wushidengwanju1.png" />
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingwanju2.png" height="250" alt="wushidengwanju2.png" />
+</div>
+
+**7. 坐姿哑铃后置弯举**
+
+<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/houzhiwanju1.png" height="250" alt="wushidengwanju1.png" />
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/houzhiwanju2.png" height="250" alt="wushidengwanju2.png" />
+</div>
+
 
 
 **二头训练教程**
