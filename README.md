@@ -279,6 +279,19 @@ Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://
 > - 呼吸机工作的原理
 
 
+aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj3423/p/7727078.html)
+
+> - 病理：胆碱能型荨麻疹（cholinergic urticaria），是身体对乙酰胆碱的抗性低于正常水平，而在人体运动、受热、情绪紧张、进食热饮或乙醇饮料后，躯体深层温度升高，脊髓分泌的用来刺激皮肤出汗的乙酰胆碱会引起身体的过敏性反应
+> - 表现为皮肤出现很多小点状的红包，伴有剧痒
+> - 提高身体血液中含氧量（血氧量），或许对病情有帮助
+
+
+
+
+
+
+
+
 ## 饮食 Diet
 
 - 晒太阳可以补充维生素D
