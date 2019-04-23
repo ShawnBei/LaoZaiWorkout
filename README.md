@@ -254,6 +254,9 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 
 
 
+
+
+
 ## 身体的奥秘 Secrets of Body
 
 丁香园莫然：[为什么胖都胖在腰部？](https://m.dxy.com/column/2493)
@@ -266,6 +269,7 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 
 
 知乎大佬详解二头肌： [（肱二头篇全解析）拿什么强壮你？我的手臂！](https://zhuanlan.zhihu.com/p/40606370)
+
 
 Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://www.youtube.com/watch?v=BeOc7TRo9Os&list=LL8Fx57eOFoHAaTHtt8vKbDg&index=82&t=6979s)
 
@@ -294,39 +298,62 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 
 ## 饮食 Diet
 
-- 晒太阳可以补充维生素D
 
-### 肉类
+
+以大服人：[［运动营养学］——增肌应该怎么吃1.0](https://zhuanlan.zhihu.com/p/29930704)
+
+> - 双非期（非增肌期、非减脂期）蛋白质每日摄入：1 g / kg
+> - 增肌期蛋白质每日摄入：1.2（低频）～1.5 g（高频） / kg，碳水摄入：6～8 g / kg，脂肪摄入等同于蛋白质
+> - 若每天能有意识的多吃鸡胸，少油糖，增加碳水其实对身材已近有很大的进步
+
+### 蛋白质
 
 **1. 牛肉**
 
-**2. 鸡肉**
+**2. 鸡胸肉**
 
 **3. 三文鱼**
 
 
-### 蔬菜
-
-**1. 西兰花**
-
-**2. 西红柿**
-
-
-
-### 水果
-
-**1. 草莓**
-
-**2. 香蕉**
-
-
-
-
-### 主食
+### 碳水
 
 **1. 大米**
 
 **2. 面条**
+
+
+
+
+### 脂肪
+
+**1. 花生酱**
+
+**2. 坚果**
+
+
+
+### 微量元素
+
+**1. 维生素D**
+
+- 晒太阳可以补充维生素D
+
+**2. 维生素B**
+
+- 富含维生素B1的食物：豆类、糙米、牛奶、家禽
+- 富含维生素B2的食物：瘦肉、蛋黄、糙米及绿叶蔬菜，小米
+
+**3. 钙**
+
+丁香医生范志红：[钙，你补对了吗？10 个忠告远离补钙误区](https://dxy.com/column/3051)
+
+> 膳食中钙的主要来源：
+> - 奶类（牛奶、酸奶、奶酪）
+> - 豆制品（卤水豆腐、石膏豆腐、豆腐干等）
+> - 深绿色的叶菜（小油菜、小白菜、芥蓝等）
+> - 芝麻酱、坚果、带骨小鱼和虾贝类等
+
+
 
 
 
