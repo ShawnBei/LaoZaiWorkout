@@ -201,6 +201,10 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 >包含动作： 哑铃侧平举、坐姿直臂举哑铃、杠铃前平举、杠铃提拉、T-bar稳定推举（前束）、Cable Machine上提外旋（后束、中束）
 
+大H：[大H | IFBB PRO 肩部訓練實錄 大H教你成為有肩膀的男人](https://www.youtube.com/watch?v=wIgkWDK9DwU&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=9&t=604s)
+
+>包含动作：
+
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
 
@@ -219,9 +223,17 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 > 包含动作：
 
+健助师小珂：[【如何练就饱满上胸+胸中缝？】大宝贝Pete地狱式训练 | 被帅soserious一万块滑板种草 | 珂肌计划EP13](https://www.youtube.com/watch?v=3bzex9PIlQE&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=10&t=446s)
+
+> 包含动作：
+
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
+
+
+
+
 
 
 
@@ -256,6 +268,10 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
+
+
+
+
 
 
 
@@ -298,6 +314,9 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 
 
 
+
+
+
 ## 饮食 Diet
 
 
@@ -322,6 +341,8 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 **1. 大米**
 
 **2. 面条**
+
+**3. 吐司面包（Multi-seeds）**
 
 
 
