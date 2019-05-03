@@ -290,11 +290,21 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 健助师小珂-[如何练出完美下胸？（快速增强卧推神器首秀！）](https://www.youtube.com/watch?v=OuLz7fZ_WwQ&t=642s)
 
 > 包含动作：
+> - 卧推
+> - 上斜绳索夹胸
+> - 上斜固定式夹胸
+> - 深度俯卧撑（yoga ball）
+> - 双杠臂屈伸（身体前倾）
+
 
 健助师小珂：[【如何练就饱满上胸+胸中缝？】大宝贝Pete地狱式训练 | 被帅soserious一万块滑板种草 | 珂肌计划EP13](https://www.youtube.com/watch?v=3bzex9PIlQE&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=10&t=446s)
 
 > 包含动作：
-> -
+> - 史密斯上胸上斜卧推 + 上斜哑铃夹胸卧推（上胸、内胸）
+> - 哑铃平躺飞鸟 + 哑铃平躺推举（胸大肌）
+> - 固定式上斜推举
+> - 固定式坐姿平推（世纪组）
+
 
 shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The Discipline Series. Ep23(新年特辑)](https://www.youtube.com/watch?v=yXRo9Mms2ZU&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=7)
 
@@ -310,8 +320,8 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 > 包含动作：
 > - 哑铃躺姿卧推
 > - 哑铃上斜卧推
-> - 固定式夹胸
-> - 绳索夹胸（力线和手臂平行）
+> - 坐姿固定式夹胸
+> - 前倾绳索夹胸（力线和手臂平行）
 > - 固定式坐姿平推（降重组频率可以加快）
 > - 双杠臂屈伸（身体前倾）
 
