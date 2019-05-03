@@ -91,10 +91,28 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣地亚哥漫展Vlog，以及全天的训练饮食.](https://www.youtube.com/watch?v=6cYhts7FHS4&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=4&t=779s)
 
-> 包含动作：引体向上、杠铃划船、坐姿绳索窄握下拉、仰卧绳索面拉、山羊挺身划船
+> 包含动作：
+> - 引体向上
+> - 杠铃划船
+> - 坐姿绳索窄握下拉
+> - 仰卧绳索面拉
+> - 山羊挺身划船
+
+
+大H：[大H | IFBB PRO 背肌訓練實錄 大H教你打造健體黃金倒三角](https://www.youtube.com/watch?v=7VNXgyu4s6g)
+
+> 包含动作：
+> - 单臂哑铃划船 One Arm Dumbbell Row（阔背肌）
+> - 固定式反手下拉 Machine Lateral Front Pull Down（阔背肌）
+> - 引体向上 Pull Up + 绳索直臂下拉 Cabel Pullover（超级组）
+> - 坐姿绳索划船 Cable Row 
+> - 绳索下拉 Lat Pulldown
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
+
+
+
 
 
 
@@ -144,9 +162,40 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=iRpSiRZ5alY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=3&t=0s)
 
-> 包含动作：单臂牧师凳弯举、站姿哑铃弯举、站姿哑铃单臂前置弯举（主练内侧）、坐姿哑铃后置弯举（主练外侧）、站姿锤式弯举（主练外侧）、站姿杠铃弯举（主练外侧）
+> 包含动作：
+> - 单臂牧师凳弯举
+> - 站姿哑铃弯举
+> - 站姿哑铃单臂前置弯举（内侧）
+> - 坐姿哑铃后置弯举（外侧）
+> - 站姿锤式弯举（外侧）
+> - 站姿杠铃弯举（外侧）
+
+健助师小珂：[如何练粗手臂？（粗剪-你怎么练，手臂就什么样/珂肌计划EP4）](https://www.youtube.com/watch?v=FHCEHKvMGIM&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=11)
+
+> 包含动作：
+> - 器械俯身下压（三头）
+> - 牧师凳弯举（二头外侧） + 站姿锤式弯举
+> - 坐姿哑铃后置弯举
+
+shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlog.The Discipline Series. Ep21](https://www.youtube.com/watch?v=5O1SfsVDMsY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=12)
+
+> 包含动作：
+> - 绳索下压（三头）
+> - 绳索臂屈伸
+> - 器械俯身下压（三头）
+> - 引体器械下压（三头）
+> - 21礼炮
+> - 单边锤式弯举（二头）
+> - 身前锤式弯举（二头）
+> - 站姿绳索二头弯曲（朝内）+ 站姿绳索二头弯曲（朝外）
+
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
+
+
+
+
+
 
 
 
@@ -174,11 +223,14 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 
 
+
+
+
 ### 肩部动作 Shoulders
 
 **1. 前肩站姿阿诺德推举**
 
-**2. 坐姿直臂举哑铃**
+**2. 坐姿哑铃肩推**
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Shoulder/zhibijuyaling1.png" height="250" alt="zhibijuyaling1" />
@@ -199,14 +251,30 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 健助师小珂-[如何把肩练大？第一次展示我的练肩神器（全程解析）](https://www.youtube.com/watch?v=HGnevk1zsCA)
 
->包含动作： 哑铃侧平举、坐姿直臂举哑铃、杠铃前平举、杠铃提拉、T-bar稳定推举（前束）、Cable Machine上提外旋（后束、中束）
+>包含动作： 
+> -  哑铃侧平举（侧肩）
+> - 坐姿直臂举哑铃（前肩）
+> - 杠铃前平举（前肩）
+> - 杠铃提拉（侧肩）
+> - T-bar稳定推举（前束）
+> - Cable Machine上提外旋（后束、中束）
 
 大H：[大H | IFBB PRO 肩部訓練實錄 大H教你成為有肩膀的男人](https://www.youtube.com/watch?v=wIgkWDK9DwU&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=9&t=604s)
 
 >包含动作：
+> - 坐姿哑铃肩推 （前肩）
+> - 固定式肩推 Machine Shoulder Press（前肩）
+> - 固定式侧飞鸟 Machine Side Fly（侧肩）
+> - 直立划船 Stand Straight Row（侧肩）
+> - 固定式后飞鸟 Machine Reverse Fly（后肩）
+> - 绳索后三角 Cable Reverse Fly（后肩）
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
+
+
+
+
 
 
 
@@ -226,6 +294,26 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 健助师小珂：[【如何练就饱满上胸+胸中缝？】大宝贝Pete地狱式训练 | 被帅soserious一万块滑板种草 | 珂肌计划EP13](https://www.youtube.com/watch?v=3bzex9PIlQE&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=10&t=446s)
 
 > 包含动作：
+> -
+
+shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The Discipline Series. Ep23(新年特辑)](https://www.youtube.com/watch?v=yXRo9Mms2ZU&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=7)
+
+> 包含动作：
+> - 史密斯上胸上斜卧推
+> - 哑铃上斜飞鸟 + 哑铃上斜推举
+> - 固定式坐姿平推
+> - 绳索夹胸
+
+
+大H：[大H | IFBB PRO 胸肌訓練實錄 大H教你打造厚實胸肌](https://www.youtube.com/watch?v=nKjAD5hN3Go&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=16)
+
+> 包含动作：
+> - 哑铃躺姿卧推
+> - 哑铃上斜卧推
+> - 固定式夹胸
+> - 绳索夹胸（力线和手臂平行）
+> - 固定式坐姿平推（降重组频率可以加快）
+> - 双杠臂屈伸（身体前倾）
 
 
 
@@ -264,7 +352,15 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
     
 Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower Split)](https://www.youtube.com/watch?v=_kLBi8tF6Kk)
 
-> 包含动作：Warm up (Stairmaster 5m)、Stretching (3m-4m)、Back Squat、着重克服动作的罗马尼亚硬拉 Eccentric Accentuated Romania Deadlift、Walking Lunge Dropset、Single Leg Eccentric Leg Extension、Lying Leg Curl、Straight Leg Calf Raise、Cable Crunch（focus on spain）
+> 包含动作：
+> - Warm up (Stairmaster 5m)、Stretching (3m-4m)
+> - Back Squat
+> - 着重克服动作的罗马尼亚硬拉 Eccentric Accentuated Romania Deadlift
+> - Walking Lunge Dropset
+> - Single Leg Eccentric Leg Extension
+> - Lying Leg Curl
+> - Straight Leg Calf Raise
+> - Cable Crunch（focus on spain）
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
