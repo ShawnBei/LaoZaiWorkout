@@ -88,7 +88,6 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
 
-**8. 站姿拉杆**
 
 
 **背部训练教程**
@@ -364,8 +363,6 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 
 <div align=center>
 
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Leg/backsquat.png" height="250" alt="backsquat.png" />
-
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/shendun.png" height="250" alt="shendun.png" />
 
 来源：健人蓋伊 - [專注完美的【背槓深蹲】起槓篇｜健人訓練｜2017ep15](https://www.youtube.com/watch?v=xEp7xdftYTY)
@@ -431,7 +428,7 @@ Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://
 
 如何选择一款适合自己的CPAP呼吸机：[How to choose… Positive Airway Pressure (PAP) therapy](https://snorer.com/information-guides/choose-positive-airway-pressure-pap-therapy/)
 
-> - 在睡眠时如果有打开s嘴巴习惯的人，将不适合鼻罩（nasal mask），而需要全脸罩（full face mask）或者口鼻罩（oro-nasal mask）
+> - 在睡眠时如果有打开嘴巴习惯的人，将不适合鼻罩（nasal mask），而需要全脸罩（full face mask）或者口鼻罩（oro-nasal mask）
 > - 呼吸机工作的原理
 
 
