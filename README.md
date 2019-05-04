@@ -158,7 +158,7 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 
 
-**二头训练教程**
+**二头训练教程 Biceps Training Courses**
 
 KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=iRpSiRZ5alY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=3&t=0s)
 
@@ -174,15 +174,15 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 > 包含动作：
 > - 器械俯身下压（三头）
-> - 牧师凳弯举（二头外侧） + 站姿锤式弯举
-> - 坐姿哑铃后置弯举
+> - **牧师凳弯举**（二头外侧） + **站姿锤式弯举**
+> - **坐姿哑铃后置弯举**
 
 shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlog.The Discipline Series. Ep21](https://www.youtube.com/watch?v=5O1SfsVDMsY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=12)
 
 > 包含动作：
-> - 绳索下压（三头）
+> - **绳索下压**（三头）
 > - 绳索臂屈伸
-> - 器械俯身下压（三头）
+> - **器械俯身下压**（三头）
 > - 引体器械下压（三头）
 > - 21礼炮
 > - 单边锤式弯举（二头）
