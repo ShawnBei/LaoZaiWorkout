@@ -40,7 +40,14 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png" height="250" alt="xiaoke.png" />
 
 来源：健助师小珂-[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
+
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/shendun.png" height="250" alt="shendun.png" />
+
+来源：健人蓋伊 - [專注完美的【背槓深蹲】起槓篇｜健人訓練｜2017ep15](https://www.youtube.com/watch?v=xEp7xdftYTY)
+
 </div>
+
+
 
 - 在做**孤立肌群/单关节**动作时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
 
@@ -174,20 +181,25 @@ KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=i
 
 > 包含动作：
 > - 器械俯身下压（三头）
-> - **牧师凳弯举**（二头外侧） + **站姿锤式弯举**
-> - **坐姿哑铃后置弯举**
+> - 牧师凳弯举（二头外侧） + 站姿锤式身前弯举
+> - 坐姿哑铃后置弯举
 
 shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlog.The Discipline Series. Ep21](https://www.youtube.com/watch?v=5O1SfsVDMsY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=12)
 
 > 包含动作：
-> - **绳索下压**（三头）
+> - 绳索下压（三头）
 > - 绳索臂屈伸
-> - **器械俯身下压**（三头）
+> - 器械俯身下压（三头）
 > - 引体器械下压（三头）
 > - 21礼炮
 > - 单边锤式弯举（二头）
 > - 身前锤式弯举（二头）
 > - 站姿绳索二头弯曲（朝内）+ 站姿绳索二头弯曲（朝外）
+
+**二头动作整理**
+
+1. 牧师凳弯举（二头外侧）+  站姿锤式身前弯举（厚度）
+2. 坐姿哑铃后置弯举
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
@@ -216,6 +228,13 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 - 前倾身体，可以加大下臂的摆动幅度，达到更好的锻炼效果
 
 **6. 负重双杠臂屈伸**
+
+
+**三头动作整理**
+
+1. 绳索下压
+2. 器械俯身下压
+3. 双杠臂屈伸
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
@@ -263,6 +282,15 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 > - 直立划船 Stand Straight Row（侧肩）
 > - 固定式后飞鸟 Machine Reverse Fly（后肩）
 > - 绳索后三角 Cable Reverse Fly（后肩）
+
+**肩部动作整理**
+
+1. 坐姿哑铃肩推
+2. 固定式肩上推
+3. 哑铃侧飞鸟 + 哑铃画圆（轻）
+4. 直立划船
+5. 固定式后飞鸟
+6. 绳索后三角
 
 
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
@@ -363,7 +391,7 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 > - 深蹲 Back Squat
 > - 着重克服动作的罗马尼亚硬拉 Eccentric Accentuated Romania Deadlift
 > - 哑铃弓步交替走路 Walking Lunge Dropset
-> - 单腿克服动作 Single Leg Eccentric Leg Extension
+> - Single Leg Eccentric Leg Extension
 > - Lying Leg Curl
 > - Straight Leg Calf Raise
 > - Cable Crunch（focus on spain）
