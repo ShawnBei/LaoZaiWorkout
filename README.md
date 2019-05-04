@@ -41,9 +41,6 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 来源：健助师小珂-[【如何练大二头？】你可能正在犯的6个错误！](https://www.youtube.com/watch?v=Yq_6jQmJOqY&t=214s)
 
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/shendun.png" height="250" alt="shendun.png" />
-
-来源：健人蓋伊 - [專注完美的【背槓深蹲】起槓篇｜健人訓練｜2017ep15](https://www.youtube.com/watch?v=xEp7xdftYTY)
 
 </div>
 
@@ -365,7 +362,14 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 - Hip below knee joint 
 - 膝盖不必要超过脚尖
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Leg/backsquat.png" height="250" alt="backsquat.png" />
+<div align=center>
+
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Leg/backsquat.png" height="250" alt="backsquat.png" />
+
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/shendun.png" height="250" alt="shendun.png" />
+
+来源：健人蓋伊 - [專注完美的【背槓深蹲】起槓篇｜健人訓練｜2017ep15](https://www.youtube.com/watch?v=xEp7xdftYTY)
+
 </div>
 
 **2. 罗马尼亚硬拉 Romania Deadlift**
