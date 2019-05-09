@@ -359,7 +359,7 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 **1. 深蹲 Back Squat**
 
 - Hip below knee joint 
-- 膝盖不必要超过脚尖
+- 膝盖不必要不超过脚尖
 
 <div align=center>
 
