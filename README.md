@@ -63,15 +63,14 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 <!---->
 <!--<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png" height="250" alt="yalinghuachuan.png" /></div>-->
 
-**2. 硬拉**
+**2. 相扑式硬拉 Sumo Deadlift**
 <div align=center><img src="/Back/sumo_deadlift.png" height="250" alt="sumo_deadlift.png" /></div>
 
 <div align=center>
 
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/sumo_dead2.png" height="250" alt="sumo_dead2.png" />
 
-来源：館長成吉思汗
- - [館長硬舉教學 2017](https://www.youtube.com/watch?v=Td_pWCfQzWg&t=586s)
+来源：館長成吉思汗 - [館長硬舉教學 2017](https://www.youtube.com/watch?v=Td_pWCfQzWg&t=586s)
 
 </div>
 
