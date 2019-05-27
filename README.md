@@ -59,9 +59,23 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 <div align=center><img src="/Back/yintixiangshang.png" height="250" alt="yintixiangshang.png" /></div>
 
-**2. 哑铃划船（胸贴凳子）**
+<!--**2. 哑铃划船（胸贴凳子）**-->
+<!---->
+<!--<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png" height="250" alt="yalinghuachuan.png" /></div>-->
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png" height="250" alt="yalinghuachuan.png" /></div>
+**2. 硬拉**
+<div align=center><img src="/Back/sumo_deadlift.png" height="250" alt="sumo_deadlift.png" /></div>
+
+<div align=center>
+
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/sumo_dead2.png" height="250" alt="sumo_dead2.png" />
+
+来源：館長成吉思汗
+ - [館長硬舉教學 2017](https://www.youtube.com/watch?v=Td_pWCfQzWg&t=586s)
+
+</div>
+
+
 
 **3. 单手哑铃划船**
 
@@ -71,20 +85,20 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
 
-**5. 直腿硬拉（练下背）**
+<!--**5. 直腿硬拉（练下背）**-->
+<!---->
+<!--- 主练背部后侧链，下背部感觉会更强烈-->
+<!---->
+<!--<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>-->
 
-- 主练背部后侧链，下背部感觉会更强烈
-
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>
-
-**6. 坐姿绳索下拉（宽距/窄距）**
+**5. 坐姿绳索下拉（宽距/窄距）**
 
 - 增加背部的宽度
 
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
 
-**7. 坐姿划船**
+**6. 坐姿划船**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
 
