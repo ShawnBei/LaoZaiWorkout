@@ -9,6 +9,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 - [初级课表 Beginner's Program](#初级课表-beginners-program)
 - [注意事项 Dos and Don'ts](#注意事项-dos-and-donts)
 - [动作大全 Movements Collection](#动作大全-movements-collection)
+- [热身 Warm up](#热身-warm-up)
     - [背部动作 Back](#背部动作-back)
     - [二头肌动作 Biceps](#二头肌动作-biceps)
     - [ 三头肌动作 Triceps](#三头肌动作-triceps)
@@ -53,6 +54,17 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 ## 动作大全 Movements Collection
 
+### 热身 Warm Up
+
+- 猫式往前往后爬（五步）
+- 猫式侧向左右爬（十步）
+    - 背挺直
+    - 膝盖尽可能靠近地面
+    - 肩往前推，手臂伸直
+    - 步伐不用太大
+- 双脚伸直，双手摸地往前爬/脚不动，直至超人俯卧撑
+    - 双手不动/双脚往前爬，直至起始位置
+
 ### 背部动作 Back
 
 **1. 引体向上 Pull-up**
@@ -76,11 +88,11 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 
-**3. 单手哑铃划船**
+**3. 单手哑铃划船 Single Arm Dumbbell Row**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/danshouyalinghuachuan.png" height="250" alt="danshouyalinghuachuan.png" /></div>
 
-**4. 杠铃划船**
+**4. 杠铃划船 Barbell Row**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
 
@@ -97,7 +109,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
 
-**6. 坐姿划船**
+**6. 坐姿划船 Sitdown Row**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
 
@@ -386,6 +398,8 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 
 - 主练大腿后侧腘绳肌（股二头肌）与臀部
 - 重量要小于屈腿硬拉
+- Lift once barbell is lower than your knees
+- Keep your back straight
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
 
@@ -435,6 +449,7 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 
 Stan Efferding：[Stan Efferding KOMPLETTES Seminar in THOR's Powergym](https://www.youtube.com/watch?v=BeOc7TRo9Os&list=LL8Fx57eOFoHAaTHtt8vKbDg&index=82&t=6979s)
 
+> - Wake up at the same time every morning
 > - 牛肉（红肉）的营养价值远高于鸡肉
 > - 睡眠呼吸暂停征（Sleep Apnea），会升高血压、增加患心脏方面的疾病的概率，可以使用CPAP在睡眠时扩张呼吸道，从而避免打鼾。（睡醒感觉疲惫，打鼾严重，极有可能患有睡眠呼吸暂停）
 
