@@ -16,6 +16,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
     - [ 肩部动作 Shoulders](#肩部动作-shoulders)
     - [胸部动作 Chest](#胸部动作-chest)
     - [腿部动作 Legs](#腿部动作-legs)
+    - [小肌肉群](#小肌肉群)
 - [身体的奥秘 Secrets of Body](#身体的奥秘-secrets-of-body)
 - [饮食 Diet](#饮食-diet)
 
@@ -328,6 +329,9 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 **1. 卧推 Bench Press**
 
 - 对肩部压力较大，不建议和肩部前后天训练
+- 肩收紧，往后顶，胸往上顶
+- 脚往下踩，把身体往肩上推（胸腔顶起）
+- 杠位落在胸线上
 
 **胸部训练教程 Chest Training Courses**
 
@@ -385,6 +389,7 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 
 - Hip below knee joint 
 - 膝盖不必要不超过脚尖
+- 先把气吐出去，让核心变紧，然后保持这种感觉再吸气
 
 <div align=center>
 
@@ -406,8 +411,22 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 **3. 屈腿硬拉**
 
 - 重量最大的硬拉
+- 手先下去随便抓，然后屁股往后上方顶，这时腿会变得比较直（很像罗马尼亚硬拉），背挺直，然后腿弯下来，屁股保持顶的感觉，然后屁股往前顶，背始终挺直，身体会自然把杠铃带起
+- 手往外转，这样会调动更多的肌群
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
+
+**4. 深蹲辅助训练**
+
+- 单脚罗马尼亚硬拉
+    - 摸地
+    - 转胯
+- 单脚罗马尼亚深蹲
+    - 抬起的脚用力往后踩在凳子上
+- 抱着杠片深蹲
+- 仰面躺地/手脚抬起
+    - 异侧手脚同时往外
+    - 保持腰部贴地
 
 
 **腿部训练教程 Legs Training Courses**
@@ -429,6 +448,12 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 
 
 
+
+
+### 小肌肉群
+
+- 招财猫（肩胛骨后侧）
+- 侧向招财猫（胸后侧）
 
 
 
@@ -506,7 +531,7 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 
 
 
-### 脂肪
+### 脂肪 Fat
 
 **1. 花生酱**
 
@@ -525,6 +550,10 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 - 富含维生素B1的食物：豆类、糙米、牛奶、家禽
 - 富含维生素B2的食物：瘦肉、蛋黄、糙米及绿叶蔬菜，小米
 
+**3. Vitamin C**
+
+- Tomato
+
 **3. 钙**
 
 丁香医生范志红：[钙，你补对了吗？10 个忠告远离补钙误区](https://dxy.com/column/3051)
@@ -535,6 +564,15 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 > - 深绿色的叶菜（小油菜、小白菜、芥蓝等）
 > - 芝麻酱、坚果、带骨小鱼和虾贝类等
 
+### Fruit
+
+Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained)](https://www.youtube.com/watch?v=hMmUc8NpC7k)
+
+> - Kiwifruit 奇异果
+> - Blueberry 蓝莓
+> - Garlic 蒜
+> - Spinach 菠菜（深绿色蔬菜）
+> - Mussel 蚌
 
 [:point_up:返回顶部](#捞仔变形手册-LaoZaiWorkout)
 
