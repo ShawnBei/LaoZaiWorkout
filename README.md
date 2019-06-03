@@ -511,6 +511,17 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 > - 增肌期蛋白质每日摄入：1.2（低频）～1.5 g（高频） / kg，碳水摄入：6～8 g / kg，脂肪摄入等同于蛋白质
 > - 若每天能有意识的多吃鸡胸，少油糖，增加碳水其实对身材已近有很大的进步
 
+Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained)](https://www.youtube.com/watch?v=hMmUc8NpC7k)
+
+> - Kiwifruit 奇异果
+> - Blueberry 蓝莓 
+> - Garlic 蒜 
+>   - Prevent body from getting cold
+> - Spinach 菠菜（深绿色蔬菜）
+> - Mussel 蚌
+
+
+
 ### 蛋白质
 
 **1. 牛肉**
@@ -522,9 +533,9 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 
 ### 碳水
 
-**1. 大米**
+**1. 米 Rice**
 
-**2. 面条**
+**2. 面条 Noodles**
 
 **3. 吐司面包（Multi-seeds）**
 
@@ -552,7 +563,7 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 
 **3. Vitamin C**
 
-- Tomato
+- Tomato: 
 
 **3. 钙**
 
@@ -564,15 +575,8 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 > - 深绿色的叶菜（小油菜、小白菜、芥蓝等）
 > - 芝麻酱、坚果、带骨小鱼和虾贝类等
 
-### Fruit
 
-Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained)](https://www.youtube.com/watch?v=hMmUc8NpC7k)
 
-> - Kiwifruit 奇异果
-> - Blueberry 蓝莓
-> - Garlic 蒜
-> - Spinach 菠菜（深绿色蔬菜）
-> - Mussel 蚌
 
 [:point_up:返回顶部](#捞仔变形手册-LaoZaiWorkout)
 
