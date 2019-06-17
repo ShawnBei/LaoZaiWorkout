@@ -1,6 +1,6 @@
 # 变形计 WorkoutGuide
 
-这本手册包含了我和朋友（一众健身小白）整理的健身动作和指导准则，随着我们段位的提升会不断完善手册（手册的完整程度也代表了我们对健身的理解程度）。大家一起加油吧！:muscle:
+这本手册包含了我和朋友整理的健身动作和指导准则，随着我们段位的提升会不断完善手册（手册的完整程度也代表了我们对健身的理解程度）。大家一起加油吧！:muscle:
 
 This is a guide for my friends and myself to gain fitness, including all the movements and suggestions we think are useful. We aim to update the guide with our new knowledge of fitness.  Let's build muscles together! :muscle:
 
