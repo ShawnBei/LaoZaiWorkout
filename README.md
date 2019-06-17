@@ -494,6 +494,12 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 > - 提高身体血液中含氧量（血氧量），或许对病情有帮助
 
 
+百度经验：[手腕骨折后康复训练](https://jingyan.baidu.com/article/cbcede071e979e02f40b4d95.html)
+
+卓恒: [卓叔增重 丨 增重20斤，肚腩也出来了，怎么办？](https://zhuanlan.zhihu.com/p/20422548)
+
+> - 练好身材的过程是这样的：开始→增肌→减脂→练成
+
 [返回顶部](#捞仔变形手册-LaoZaiWorkout)
 
 
@@ -517,6 +523,7 @@ Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained
 
 > - Kiwifruit 奇异果
 > - Blueberry 蓝莓 
+>   - 1 cup / Day
 > - Garlic 蒜 
 >   - Prevent body from getting cold
 > - Spinach 菠菜（深绿色蔬菜）
