@@ -529,6 +529,16 @@ Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained
 > - Spinach 菠菜（深绿色蔬菜）
 > - Mussel 蚌
 
+瘦龙健康: [各种烹饪方式与食物营养流失](https://zhuanlan.zhihu.com/p/34406612)
+
+> 只要你把煮菜或炖肉的汤都喝掉，100%的矿物质和70 – 90%的维生素B也就被你吃进肚里了，因为煮过的菜或肉，营养都在汤里了。
+
+瘦龙低碳: [植物油健康吗？我们到底怎么选择食用油？](http://www.chinalowcarb.com/zhiwuyou)
+
+> 需要尽量少摄入的是，含有omega-6太多的植物油：
+> - 大豆油，菜籽油，玉米油，红花油，葵花籽油，棉花籽油，花生油，芝麻油，菜籽油，稻米油。
+> 推荐用油: 
+> - 椰子油（排名第一），橄榄油，黄油，牛油果，鱼油，猪油等动物油，棕榈油，亚麻籽油。
 
 
 ### 蛋白质
