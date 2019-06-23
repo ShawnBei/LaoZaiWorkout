@@ -457,8 +457,7 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 - 招财猫（肩胛骨后侧）
 - 侧向招财猫（胸后侧）
 
-[返回顶部](#捞仔变形手册-LaoZaiWorkout)
-
+[返回顶部](#变形计-WorkoutGuide)
 
 ## 身体的奥秘 Secrets of Body
 
@@ -537,6 +536,7 @@ Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained
 
 > 需要尽量少摄入的是，含有omega-6太多的植物油：
 > - 大豆油，菜籽油，玉米油，红花油，葵花籽油，棉花籽油，花生油，芝麻油，菜籽油，稻米油。
+
 > 推荐用油: 
 > - 椰子油（排名第一），橄榄油，黄油，牛油果，鱼油，猪油等动物油，棕榈油，亚麻籽油。
 
