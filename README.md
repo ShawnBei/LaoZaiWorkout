@@ -27,12 +27,17 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 ## 初级课表 Beginner's Program
 
 <div align=center>
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_primary.jpg" height="250" alt="beginner program" />
+来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
+</div>
+
+## 进阶课表 Advanced Program
+
+<div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg" height="250" alt="guanzhang_time.jpg" />
 
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 </div>
-
-
 
 
 
@@ -66,6 +71,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 - 双脚伸直，双手摸地往前爬/脚不动，直至超人俯卧撑
     - 双手不动/双脚往前爬，直至起始位置
     
+
 [返回顶部](#变形计-WorkoutGuide)
 
 ### 背部动作 Back
@@ -73,14 +79,12 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **1. 引体向上 Pull-up**
 
 <div align=center><img src="/Back/yintixiangshang.png" height="250" alt="yintixiangshang.png" /></div>
-
 <!--**2. 哑铃划船（胸贴凳子）**-->
 <!---->
 <!--<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png" height="250" alt="yalinghuachuan.png" /></div>-->
 
 **2. 相扑式硬拉 Sumo Deadlift**
 <div align=center><img src="/Back/sumo_deadlift.png" height="250" alt="sumo_deadlift.png" /></div>
-
 <div align=center>
 
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/sumo_dead2.png" height="250" alt="sumo_dead2.png" />
@@ -94,11 +98,9 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **3. 单手哑铃划船 Single Arm Dumbbell Row**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/danshouyalinghuachuan.png" height="250" alt="danshouyalinghuachuan.png" /></div>
-
 **4. 杠铃划船 Barbell Row**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
-
 <!--**5. 直腿硬拉（练下背）**-->
 <!---->
 <!--- 主练背部后侧链，下背部感觉会更强烈-->
@@ -111,11 +113,9 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
-
 **6. 坐姿划船 Sitdown Row**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
-
 
 
 **背部训练教程**
@@ -409,7 +409,6 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 - Keep your back straight
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
-
 **3. 屈腿硬拉**
 
 - 重量最大的硬拉
@@ -417,7 +416,6 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 - 手往外转，这样会调动更多的肌群
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
-
 **4. 深蹲辅助训练**
 
 - 单脚罗马尼亚硬拉
