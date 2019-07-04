@@ -27,7 +27,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 ## 初级课表 Beginner's Program
 
 <div align=center>
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_primary.jpg" height="250" alt="beginner program" />
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_primary.png" height="250" alt="beginner program" />
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 </div>
 
@@ -116,7 +116,6 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 **6. 坐姿划船 Sitdown Row**
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
-
 
 **背部训练教程**
 
