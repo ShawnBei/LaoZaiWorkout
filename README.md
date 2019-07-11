@@ -28,7 +28,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_primary.png" height="250" alt="beginner program" />
-来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
+ 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 </div>
 
 ## 进阶课表 Advanced Program
