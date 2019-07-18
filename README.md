@@ -10,21 +10,21 @@
 
 [3. 动作大全 Movements Collection](#3-动作大全-movements-collection)
 
-​	[3.1 热身 Warm up](#3.1-热身-warm-up)
+​		[3.1 热身 Warm up](#3.1-热身-warm-up)
 
-​	[3.2 背部 Back](#3.2-背部-back)
+​		[3.2 背部 Back](#3.2-背部-back)
 
-​	[3.3 二头肌 Biceps](#3.3-二头肌-biceps)
+​		[3.3 二头肌 Biceps](#3.3-二头肌-biceps)
 
-​	[3.4 三头肌 Triceps](#3.4-三头肌-triceps)
+​		[3.4 三头肌 Triceps](#3.4-三头肌-triceps)
 
-​	[3.5 肩部 Shoulders](#3.5-肩部-shoulders)
+​		[3.5 肩部 Shoulders](#3.5-肩部-shoulders)
 
-​	[3.6 胸部 Chest](#3.6-胸部-chest)
+​		[3.6 胸部 Chest](#3.6-胸部-chest)
 
-​	[3.7 腿部 Legs](#3.7-腿部-legs)
+​		[3.7 腿部 Legs](#3.7-腿部-legs)
 
-​	[3.8 小肌肉群](#3.8-小肌肉群)
+​		[3.8 小肌肉群](#3.8-小肌肉群)
 
 [4. 身体的奥秘 Secrets of Body](#4-身体的奥秘-secrets-of-body)
 
