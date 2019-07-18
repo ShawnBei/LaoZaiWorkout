@@ -249,7 +249,7 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 - 固定上臂不动，可以更好地孤立三头肌
 - 前倾身体，可以加大下臂的摆动幅度，达到更好的锻炼效果
 
-![Screenshot 2019-07-18 at 16.14.45](./Triceps/Screenshot 2019-07-18 at 16.14.45.png)
+<img src="./Triceps/Screenshot 2019-07-18 at 16.14.45.png" width="200">
 
 #### 3.4.2 器械俯身下压/双杠臂屈伸 Triceps Dip :key:
 
@@ -258,7 +258,7 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 - 不必降到太低，示自由度而定
 - 沉肩
 
-![v2-a1604d84e34cc493f8904c440e7ac6aa_hd](/Users/bei/Documents/GitHub/WorkoutGuide/Triceps/v2-a1604d84e34cc493f8904c440e7ac6aa_hd.jpg)
+![v2-a1604d84e34cc493f8904c440e7ac6aa_hd](./Triceps/v2-a1604d84e34cc493f8904c440e7ac6aa_hd.jpg)
 
 #### 3.4.3 俯卧撑 Push up
 
