@@ -66,7 +66,7 @@
 
 
 
-- 在做**孤立肌群/单关节**动作时，不应盲目追求大重量，应该减少重量以达到更好的感受度，以及更完整的动作。
+- 在做**孤立肌群/单关节**动作时，不应盲目追求大重量，找到能保持完整行程并使肌肉感受最为疲劳的重量即可。更完整的行程可以更好地使肌肉充血，达到更好的训练效果。
 
 
 
@@ -460,7 +460,7 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 #### 3.7.2 罗马尼亚硬拉 Romania Deadlift
 
 - 主练大腿后侧腘绳肌（股二头肌）与臀部
-- 重量要小于屈腿硬拉
+- 膝盖只要微弯即可，杠尽量贴近小腿
 - Lift once barbell is lower than your knees
 - Keep your back straight
 
@@ -523,6 +523,15 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 > - Lying Leg Curl
 > - Straight Leg Calf Raise
 > - Cable Crunch（focus on spain）
+
+大H：[大H | IFBB PRO 腿肌訓練實錄 大H教你如何練出健體腿 健體要練腿嗎？](https://www.youtube.com/watch?v=_gjkeqoUsGE&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=31&t=0s)
+
+> - 固定式腿推 Leg Press
+> - 深蹲 Back Squat
+> - 罗马尼亚硬拉 Romania Deadlift
+> - 固定式腿后弯举 Lying Leg Curl
+> - 固定式腿前屈伸 Leg Extension
+
 
 
 [返回顶部](#变形计-WorkoutGuide)
