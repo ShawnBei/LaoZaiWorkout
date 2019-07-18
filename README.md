@@ -6,25 +6,29 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 ## 目录 Content
 
-- [初级课表 Beginner's Program](#初级课表-beginners-program)
-- [注意事项 Dos and Don'ts](#注意事项-dos-and-donts)
-- [动作大全 Movements Collection](#动作大全-movements-collection)
-    - [热身 Warm up](#热身-warm-up)
-    - [背部动作 Back](#背部动作-back)
-    - [二头肌动作 Biceps](#二头肌动作-biceps)
-    - [ 三头肌动作 Triceps](#三头肌动作-triceps)
-    - [ 肩部动作 Shoulders](#肩部动作-shoulders)
-    - [胸部动作 Chest](#胸部动作-chest)
-    - [腿部动作 Legs](#腿部动作-legs)
-    - [小肌肉群](#小肌肉群)
+1. [课表 Program](#1-课表)
+
+2. [注意事项 Dos and Don'ts](#注意事项-dos-and-donts)
+
+3. [动作大全 Movements Collection](#动作大全-movements-collection)
+
+- [热身 Warm up](#热身-warm-up)
+- [背部动作 Back](#背部动作-back)
+- [二头肌动作 Biceps](#二头肌动作-biceps)
+- [ 三头肌动作 Triceps](#三头肌动作-triceps)
+- [ 肩部动作 Shoulders](#肩部动作-shoulders)
+- [胸部动作 Chest](#胸部动作-chest)
+- [腿部动作 Legs](#腿部动作-legs)
+- [小肌肉群](#小肌肉群)
+
 - [身体的奥秘 Secrets of Body](#身体的奥秘-secrets-of-body)
 - [饮食 Diet](#饮食-diet)
 
 
 
+## 1 课表
 
-
-## 初级课表 Beginner's Program
+### 1.1 初级课表 Beginner's Program
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_primary.png" height="250" alt="beginner program" />
@@ -33,7 +37,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 来源：[館長教學-健身新手村三部曲-課表篇](https://www.youtube.com/watch?v=Fg6xKZOq0pw&t=1332s)
 </div>
 
-## 进阶课表 Advanced Program
+### 1.2 进阶课表 Advanced Program
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/guanzhang_time.jpg" height="250" alt="guanzhang_time.jpg" />
@@ -43,7 +47,7 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 
-## 注意事项 Dos and Don'ts
+## 2 注意事项 Dos and Don'ts
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/TutorGuide/xiaoke.png" height="250" alt="xiaoke.png" />
@@ -60,9 +64,9 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 
 
-## 动作大全 Movements Collection
+## 3 动作大全 Movements Collection
 
-### 热身 Warm Up
+### 3.1 热身 Warm Up
 
 - 猫式往前往后爬（五步）
 - 猫式侧向左右爬（十步）
@@ -76,31 +80,41 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 
 [返回顶部](#变形计-WorkoutGuide)
 
-### 背部动作 Back
+### 3.2 背部动作 Back
 
-**1. 引体向上 Pull-up**
+背部训练的三种常见方式：
+
+- 多关节运动（引体向上）
+- 各种器械/绳索拉（下拉/平拉/上拉）
+- 自由重量（哑铃/杠铃划船）
+
+#### 3.2.1 引体向上 Pull-up :key:
 
 <div align=center><img src="/Back/yintixiangshang.png" height="250" alt="yintixiangshang.png" /></div>
+
+
+- 多关节
+- 沉肩/挺胸
+- 始终试图收紧肩胛骨，并保持肩部张力
+
+
+
 <!--**2. 哑铃划船（胸贴凳子）**-->
 <!---->
 <!--<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/yalinghuachuan.png" height="250" alt="yalinghuachuan.png" /></div>-->
 
-**2. 相扑式硬拉 Sumo Deadlift**
-<div align=center><img src="/Back/sumo_deadlift.png" height="250" alt="sumo_deadlift.png" /></div>
-<div align=center>
-
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/sumo_dead2.png" height="250" alt="sumo_dead2.png" />
-
-来源：館長成吉思汗 - [館長硬舉教學 2017](https://www.youtube.com/watch?v=Td_pWCfQzWg&t=586s)
-
-</div>
 
 
 
-**3. 单手哑铃划船 Single Arm Dumbbell Row**
+
+#### 3.2.2 单臂哑铃划船 Single Arm Dumbbell Row
+
+- 自由重量
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/danshouyalinghuachuan.png" height="250" alt="danshouyalinghuachuan.png" /></div>
-**4. 杠铃划船 Barbell Row**
+#### 3.2.3 杠铃划船 Barbell Row
+
+- 自由重量
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/ganglinghuachuan.png" height="250" alt="ganglinghuachuan.png" /></div>
 <!--**5. 直腿硬拉（练下背）**-->
@@ -109,17 +123,20 @@ This is a guide for my friends and myself to gain fitness, including all the mov
 <!---->
 <!--<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zhitui.png" height="250" alt="zhitui.png" /></div>-->
 
-**5. 坐姿绳索下拉（宽距/窄距）**
+#### 3.2.4 坐位下拉（宽距/窄距）Sitdown Machine Pulldown
 
-- 增加背部的宽度
+- 下拉
+- 增加背部的宽度/阔背肌
 
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/gaoweixiala.png" height="250" alt="gaoweixiala.png" /></div>
-**6. 坐姿划船 Sitdown Row**
+#### 3.2.5 坐姿划船 Sitdown Machine Row
+
+- 平拉
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/zuozihuachuan.png" height="250" alt="zhanzilagan.png" /></div>
 
-**背部训练教程**
+#### 3.2.6 背部训练教程
 
 shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣地亚哥漫展Vlog，以及全天的训练饮食.](https://www.youtube.com/watch?v=6cYhts7FHS4&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=4&t=779s)
 
@@ -147,42 +164,36 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 
 
+### 3.3 二头肌动作 Biceps
 
-### 二头肌动作 Biceps
+二头包含长头（Long Head）和短头（Short Head）。
 
-**1. 曲杆杠铃弯举（主练外侧）**
+![肱二頭肌-copy_18032211231733735](./Bicep/肱二頭肌-copy_18032211231733735.jpg)
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/ganglingwanju1.png" height="250" alt="zhanzilagan.png" />
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/ganglingwanju2.png" height="250" alt="zhanzilagan.png" />
-</div>
+#### 3.3.1 杠铃/哑铃弯举 Barbell/Dumbbell Curl
 
+- 主练长头/外侧
 
-**2. 哑铃反向弯举**
+![ganglingwanju2](./Bicep/ganglingwanju2.png)![ganglingwanju1](./Bicep/ganglingwanju1.png)
 
-<div align=center>
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingfanxiangwanju.png" height="250" alt="zhanzilagan.png" />
-</div>
+#### 
 
-**3. 锤式弯举**
+#### 3.3.2 锤式弯举 Hammer Curl
+
+- 主练肱肌
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/chuishi.png" height="250" alt="zhanzilagan.png" />
 </div>
 
-**4. 绳索弯举**
 
-**5. 站姿哑铃弯举**
 
-<div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingwanju1.png" height="250" alt="zhanzilagan.png" />
-<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/yalingwanju2.png" height="250" alt="zhanzilagan.png" />
-</div>
-
-**6. 牧师凳单臂弯举**
+#### 3.3.3 牧师凳单臂弯举 Preacher Curl :key:
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/wushidengwanju1.png" height="250" alt="wushidengwanju1.png" />
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/wushidengwanju2.png" height="250" alt="wushidengwanju2.png" />
 </div>
 
-**7. 坐姿哑铃后置弯举**
+#### 3.3.4 坐姿哑铃后置弯举 Sitdown Dumbbell Curl
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/houzhiwanju1.png" height="250" alt="wushidengwanju1.png" />
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Bicep/houzhiwanju2.png" height="250" alt="wushidengwanju2.png" />
@@ -190,7 +201,7 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 
 
-**二头训练教程 Biceps Training Courses**
+#### 3.3.5 二头训练教程
 
 KosmoFit：[肌肥大手臂訓練　二頭篇](https://www.youtube.com/watch?v=iRpSiRZ5alY&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=3&t=0s)
 
@@ -221,11 +232,6 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 > - 身前锤式弯举（二头）
 > - 站姿绳索二头弯曲（朝内）+ 站姿绳索二头弯曲（朝外）
 
-**二头动作实战**
-
-1. 牧师凳弯举（二头外侧）+ 站姿锤式身前弯举（厚度）
-2. 坐姿哑铃后置弯举
-
 
 [返回顶部](#变形计-WorkoutGuide)
 
@@ -235,32 +241,29 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 
 
+### 3.4 三头肌动作 Triceps
 
-### 三头肌动作 Triceps
-
-**1. 窄距卧推**
-
-**2. 窄距俯卧撑**
-
-**3. 法式仰卧推举**
-
-**4. Tricep Kickback**
-
-**5. 垂绳下拉**
+#### 3.4.1 绳索下压
 
 - 此动作主练的是三头肌中的长头（单关节动作）
 - 固定上臂不动，可以更好地孤立三头肌
 - 前倾身体，可以加大下臂的摆动幅度，达到更好的锻炼效果
 
-**6. 负重双杠臂屈伸**
+![Screenshot 2019-07-18 at 16.14.45](./Triceps/Screenshot 2019-07-18 at 16.14.45.png)
 
+#### 3.4.2 器械俯身下压/双杠臂屈伸 Triceps Dip :key:
 
-**三头动作实战**
+- 身体保持垂直地面，前倾会吃到较多胸部
+- 双臂尽量靠近身体
+- 不必降到太低，示自由度而定
+- 沉肩
 
-1. 绳索下压
-2. 器械俯身下压
-3. 双杠臂屈伸
+![v2-a1604d84e34cc493f8904c440e7ac6aa_hd](/Users/bei/Documents/GitHub/WorkoutGuide/Triceps/v2-a1604d84e34cc493f8904c440e7ac6aa_hd.jpg)
 
+#### 3.4.3 俯卧撑 Push up
+
+- 双臂尽量靠近身体，远离身体会吃到更多的胸部
+- 沉肩
 
 [返回顶部](#变形计-WorkoutGuide)
 
@@ -270,21 +273,20 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 
 
-### 肩部动作 Shoulders
+### 3.5 肩部动作 Shoulders
 
-**1. 哑铃肩推 Dumbbell Shoulder Press**
+#### 3.5.1 哑铃肩推 Dumbbell Shoulder Press :key:
 
 <div align=center>
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Shoulder/zhibijuyaling1.png" height="250" alt="zhibijuyaling1" />
 <img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Shoulder/zhibijuyaling2.png" height="250" alt="zhibijuyaling2" />
 </div>
 
-**2. 哑铃侧平举 Dumbbell Side Lateral Raise**
+#### 3.5.2 哑铃侧平举 Dumbbell Side Lateral Raise:key:
 
-**3. 直立绳索单手侧拉 Stand Cabel Single Arm Side Pull**
+#### 3.5.3 哑铃后平举
 
 - 主练后三角肌
-
 
 **肩部训练教程**
 
@@ -326,17 +328,28 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 
 
+### 3.6 胸部动作 Chest
 
-### 胸部动作 Chest
-
-**1. 卧推 Bench Press**
+#### 3.6.1 卧推 Bench Press :key:
 
 - 对肩部压力较大，不建议和肩部前后天训练
 - 肩收紧，往后顶，胸往上顶
 - 脚往下踩，把身体往肩上推（胸腔顶起）
 - 杠位落在胸线上
 
-**胸部训练教程 Chest Training Courses**
+#### 3.6.2 哑铃卧推/上斜卧推
+
+
+
+#### 3.6.2 器械/绳索夹胸
+
+
+
+#### 3.6.3 双杠臂屈伸 Chest Dip
+
+
+
+#### 3.6.4 胸部训练教程
 
 健助师小珂-[如何练出完美下胸？（快速增强卧推神器首秀！）](https://www.youtube.com/watch?v=OuLz7fZ_WwQ&t=642s)
 
@@ -386,9 +399,9 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 
 
 
-### 腿部动作 Legs
+### 3.7 腿部动作 Legs
 
-**1. 深蹲 Back Squat**
+#### 3.7.1 深蹲 Back Squat
 
 - Hip below knee joint 
 - 膝盖不必要不超过脚尖
@@ -402,7 +415,7 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 
 </div>
 
-**2. 罗马尼亚硬拉 Romania Deadlift**
+#### 3.7.2 罗马尼亚硬拉 Romania Deadlift
 
 - 主练大腿后侧腘绳肌（股二头肌）与臀部
 - 重量要小于屈腿硬拉
@@ -410,14 +423,25 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 - Keep your back straight
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/luomaniya.png" height="250" alt="luomaniya.png" /></div>
-**3. 屈腿硬拉**
+#### 3.7.3 屈腿硬拉 Traditional Deadlift
 
 - 重量最大的硬拉
 - 手先下去随便抓，然后屁股往后上方顶，这时腿会变得比较直（很像罗马尼亚硬拉），背挺直，然后腿弯下来，屁股保持顶的感觉，然后屁股往前顶，背始终挺直，身体会自然把杠铃带起
 - 手往外转，这样会调动更多的肌群
 
 <div align=center><img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/qutui.png" height="250" alt="qutui.png" /></div>
-**4. 深蹲辅助训练**
+#### 3.7.4 相扑式硬拉 Sumo Deadlift
+
+<div align=center><img src="/Back/sumo_deadlift.png" height="250" alt="sumo_deadlift.png" /></div>
+<div align=center>
+
+<img src="https://github.com/ShawnBei/LaoZaiWorkout/blob/master/Back/sumo_dead2.png" height="250" alt="sumo_dead2.png" />
+
+来源：館長成吉思汗 - [館長硬舉教學 2017](https://www.youtube.com/watch?v=Td_pWCfQzWg&t=586s)
+
+</div>
+
+#### 3.7.5 深蹲辅助训练
 
 - 单脚罗马尼亚硬拉
     - 摸地
@@ -429,9 +453,8 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
     - 异侧手脚同时往外
     - 保持腰部贴地
 
+#### 3.7.6 腿部训练教程
 
-**腿部训练教程 Legs Training Courses**
-    
 Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower Split)](https://www.youtube.com/watch?v=_kLBi8tF6Kk)
 
 > 包含动作：
@@ -451,14 +474,14 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 
 
 
-### 小肌肉群
+### 3.8 小肌肉群
 
 - 招财猫（肩胛骨后侧）
 - 侧向招财猫（胸后侧）
 
 [返回顶部](#变形计-WorkoutGuide)
 
-## 身体的奥秘 Secrets of Body
+## 4 身体的奥秘 Secrets of Body
 
 丁香园莫然：[为什么胖都胖在腰部？](https://m.dxy.com/column/2493)
 
@@ -507,7 +530,7 @@ aj3423：[胆碱能型荨麻疹（遇热过敏型）](https://www.cnblogs.com/aj
 
 
 
-## 饮食 Diet
+## 5 饮食 Diet
 
 
 
@@ -537,7 +560,7 @@ Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained
 > - 推荐用油: 椰子油（排名第一），橄榄油，黄油，牛油果，鱼油，猪油等动物油，棕榈油，亚麻籽油。
 
 
-### 蛋白质
+### 5.1 蛋白质
 
 **1. 牛肉**
 
@@ -546,7 +569,7 @@ Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained
 **3. 三文鱼**
 
 
-### 碳水
+### 5.2 碳水
 
 **1. 米 Rice**
 
@@ -557,7 +580,7 @@ Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained
 
 
 
-### 脂肪 Fat
+### 5.3 脂肪 Fat
 
 **1. 花生酱**
 
@@ -565,7 +588,7 @@ Jeff Nippard: [5 “Superfoods” I Recently Added To My Diet (Science Explained
 
 
 
-### 微量元素
+### 5.4 微量元素
 
 **1. 维生素D**
 
