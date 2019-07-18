@@ -2,27 +2,33 @@
 
 这本手册包含了我和朋友整理的健身动作和指导准则，随着我们段位的提升会不断完善手册（手册的完整程度也代表了我们对健身的理解程度）。大家一起加油吧！:muscle:
 
-This is a guide for my friends and myself to gain fitness, including all the movements and suggestions we think are useful. We aim to update the guide with our new knowledge of fitness.  Let's build muscles together! :muscle:
-
 ## 目录 Content
 
-1. [课表 Program](#1-课表)
+[1. 课表 Program](#1-课表)
 
-2. [注意事项 Dos and Don'ts](#注意事项-dos-and-donts)
+[2. 注意事项 Dos and Don'ts](#2-注意事项-dos-and-donts)
 
-3. [动作大全 Movements Collection](#动作大全-movements-collection)
+[3. 动作大全 Movements Collection](#3-动作大全-movements-collection)
 
-- [热身 Warm up](#热身-warm-up)
-- [背部动作 Back](#背部动作-back)
-- [二头肌动作 Biceps](#二头肌动作-biceps)
-- [ 三头肌动作 Triceps](#三头肌动作-triceps)
-- [ 肩部动作 Shoulders](#肩部动作-shoulders)
-- [胸部动作 Chest](#胸部动作-chest)
-- [腿部动作 Legs](#腿部动作-legs)
-- [小肌肉群](#小肌肉群)
+​	[3.1 热身 Warm up](#3.1-热身-warm-up)
 
-- [身体的奥秘 Secrets of Body](#身体的奥秘-secrets-of-body)
-- [饮食 Diet](#饮食-diet)
+​	[3.2 背部 Back](#3.2-背部-back)
+
+​	[3.3 二头肌 Biceps](#3.3-二头肌-biceps)
+
+​	[3.4 三头肌 Triceps](#3.4-三头肌-triceps)
+
+​	[3.5 肩部 Shoulders](#3.5-肩部-shoulders)
+
+​	[3.6 胸部 Chest](#3.6-胸部-chest)
+
+​	[3.7 腿部 Legs](#3.7-腿部-legs)
+
+​	[3.8 小肌肉群](#3.8-小肌肉群)
+
+[4. 身体的奥秘 Secrets of Body](#4-身体的奥秘-secrets-of-body)
+
+[5. 饮食 Diet](#5-饮食-diet)
 
 
 
@@ -268,23 +274,50 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 ### 3.5 肩部 Shoulders
 
+- 肩部主要由三角肌组成，其中包含三角肌前束、中束和后束。
+- 肩部动作角度因人而异，找到自己合适的角度即可。
+
+<img src="./Shoulder/Screenshot 2019-07-18 at 18.58.37.png" width=300>
+
 #### 3.5.1 哑铃肩推 Dumbbell Shoulder Press :key:
 
+- 复合运动，主练三角肌前束、中束
+
+- 一开始双臂打开的角度不需达到180度，待肩膀习惯后/强度加大后可以慢慢加大角度
+
+  
+
+<img src="./Shoulder/Screenshot 2019-07-18 at 18.23.05.png" width=200>
 
 
 
+#### 3.5.2 哑铃侧飞鸟 Dumbbell Side Lateral Raise:key:
 
-#### 3.5.2 哑铃侧平举 Dumbbell Side Lateral Raise:key:
+- 主练三角肌中束
 
-
-
-
-
-#### 3.5.3 哑铃后平举
-
-- 主练后三角肌
+<img src="./Shoulder/Screenshot 2019-07-18 at 18.29.36.png" width=200>
 
 
+
+#### 3.5.3 哑铃后飞鸟 Rear Delt Raise
+
+- 主练三角肌后束
+
+<img src="./Shoulder/Screenshot 2019-07-18 at 19.12.11.png" width=200>
+
+
+
+#### 3.5.4 哑铃/杠铃前平举 Dumbbell Front Raise
+
+- 主练三角肌前束
+
+<img src="./Shoulder/Screenshot 2019-07-18 at 19.23.17.png" width=200>
+
+#### 3.5.5 哑铃/杠铃耸肩 Shoulder Shrug
+
+- 主练斜方肌
+
+<img src="./Shoulder/Screenshot 2019-07-18 at 18.35.59.png" width=200>
 
 
 
@@ -293,24 +326,34 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 健助师小珂-[如何把肩练大？第一次展示我的练肩神器（全程解析）](https://www.youtube.com/watch?v=HGnevk1zsCA)
 
 >包含动作： 
-> -  哑铃侧平举（侧肩）
-> - 坐姿哑铃肩推（前肩）
-> - 杠铃前平举（前肩）
-> - 杠铃直立划船（侧肩）
+> -  哑铃侧平举（中束）
+> - 坐姿哑铃肩推（前束/中束）
+> - 杠铃前平举（前束）
+> - 杠铃直立划船（中束）
 > - T-bar稳定推举（前束）
 > - Cable Machine上提外旋（后束、中束）
 
 大H：[大H | IFBB PRO 肩部訓練實錄 大H教你成為有肩膀的男人](https://www.youtube.com/watch?v=wIgkWDK9DwU&list=PLFRss9g5ySgQ4zrbEuYnKo9Z9r6tJHriI&index=9&t=604s)
 
 >包含动作：
-> - 坐姿哑铃肩推 （前肩）
-> - 固定式肩上推 Machine Shoulder Press（前肩）
-> - 固定式侧飞鸟 Machine Side Fly（侧肩）
-> - 直立划船 Stand Straight Row（侧肩）
-> - 固定式后飞鸟 Machine Reverse Fly（后肩）
-> - 绳索后三角 Cable Reverse Fly（后肩）
+> - 坐姿哑铃肩推 （前）
+> - 固定式肩上推 Machine Shoulder Press（前）
+> - 固定式侧飞鸟 Machine Side Fly（中）
+> - 直立划船 Stand Straight Row（中）
+> - 固定式后飞鸟 Machine Reverse Fly（后）
+> - 绳索后三角 Cable Reverse Fly（后）
 
+馆长：[【館長健身教學 】肩膀訓練：啞鈴肩推，側飛鳥的重要性](https://www.youtube.com/watch?v=9EkHLHJNJnk&t=3018s)
 
+> - 哑铃肩推
+>
+> - 哑铃侧飞鸟
+>
+> - 哑铃后飞鸟
+>
+> - 杠铃前平举
+>
+> - 杠铃耸肩（斜方肌）
 
 [返回顶部](#变形计-WorkoutGuide)
 
@@ -325,15 +368,22 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 #### 3.6.1 卧推 Bench Press :key:
 
 - 对肩部压力较大，不建议和肩部前后天训练
-- 肩收紧，往后顶，胸往上顶
-- 脚往下踩，把身体往肩上推（胸腔顶起）
+- 收紧肩胛骨，往后顶，胸往上顶，脚往下踩，把身体往肩上推（胸腔顶起），屁股和肩部贴住凳子
 - 杠位落在胸线上
 
-#### 3.6.2 哑铃卧推/上斜卧推
+<img src="./Shoulder/Screenshot 2019-07-18 at 19.31.44.png" width=300>
+
+健人蓋伊：[【槓鈴臥推】訓練技巧與練前伸展｜健人訓練｜2018ep05](https://www.youtube.com/watch?v=VknFj7_shiA)
+
+> - 运动轨迹并非直上直下
+> - 抓杠不需太宽/在低点时是最自然舒适的位置即可
+> - 握杠位置落在手掌下方
+
+#### 3.6.2 哑铃卧推/上斜卧推 
 
 
 
-#### 3.6.2 器械/绳索夹胸
+#### 3.6.2 器械/绳索夹胸 
 
 
 
