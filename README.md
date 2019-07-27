@@ -97,23 +97,20 @@
 
 #### 3.2.1 引体向上 Pull-up :key:
 
-<div align=center>
-  <img src="./Back/yintixiangshang.png" height="250"></div>
-
-
-
 - 多关节
 - 沉肩/挺胸
 - 始终试图收紧肩胛骨，并保持肩部张力
 
+<div align=center>
+  <img src="./Back/yintixiangshang.png" width="250"></div>
 
+<img src="./Back/Screenshot 2019-07-20 at 16.08.10.png" width=250>
 
 #### 3.2.2 单臂哑铃划船 Single Arm Dumbbell Row
 
 - 自由重量
 
 <div align=center><img src="./Back/danshouyalinghuachuan.png" width="200" alt="danshouyalinghuachuan.png" /></div>
-
 #### 3.2.3 杠铃划船 Barbell Row
 
 - 自由重量
@@ -173,11 +170,16 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 <img src="./Bicep/肱二頭肌-copy_18032211231733735.jpg" width=300>
 
-#### 3.3.1 杠铃/哑铃弯举 Barbell/Dumbbell Curl
+Compond movement:
+
+- Chin ups / Pull ups
+- Rows
+
+#### 3.3.1 杠铃/哑铃弯举 Barbell/Dumbbell Curl :key:
 
 - 主练长头/外侧
 
-
+<img src="./Bicep/Screenshot 2019-07-20 at 16.20.50.png" width=200>
 
 #### 3.3.2 锤式弯举 Hammer Curl
 
@@ -188,17 +190,15 @@ shuaisoserious：[【如何练宽背部】—增强背部感受全攻略，圣�
 
 
 
-#### 3.3.3 牧师凳单臂弯举 Preacher Curl :key:
+#### 3.3.3 牧师凳单臂弯举 Preacher Curl
 
-<img src="./Bicep/wushidengwanju2.png" width=200>
-
-<img src="./Bicep/wushidengwanju1.png" width=200>
+<img src="./Bicep/Screenshot 2019-07-20 at 16.23.04.png" width=250>
 
 
 
-#### 3.3.4 坐姿哑铃后置弯举 Sitdown Dumbbell Curl
+#### 3.3.4 上斜哑铃弯举 Incline Dumbbell Curl
 
-<img src="./Bicep/houzhiwanju2.png" width=200>
+<img src="./Bicep/Screenshot 2019-07-20 at 16.25.27.png" width=300>
 
 #### 3.3.5 二头训练教程
 
@@ -242,27 +242,54 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 ### 3.4 三头肌 Triceps
 
-#### 3.4.1 绳索下压
+Compond movement: 
 
-- 此动作主练的是三头肌中的长头（单关节动作）
-- 固定上臂不动，可以更好地孤立三头肌
-- 前倾身体，可以加大下臂的摆动幅度，达到更好的锻炼效果
+- Bench Press
+- Dips
+- Push Ups
 
+#### 3.4.1 绳索下压 Cable Tricep Push Down
 
+- 此动作主练的是三头肌中的 Lateral Head（单关节动作）
+- 固定上臂不动 / 垂直地面， 微微前倾身体，拉至底部时向两侧旋转手腕 / 手腕处于一条线
+- 起始时，手肘保持90度
 
-#### 3.4.2 器械俯身下压/双杠臂屈伸 Triceps Dip :key:
+<img src="./Triceps/Screenshot 2019-07-20 at 15.11.03.png" width=300>
+
+#### 3.4.2 器械俯身下压/双杠臂屈伸 Dip 
 
 - 身体保持垂直地面，前倾会吃到较多胸部
 - 双臂尽量靠近身体
-- 不必降到太低，示自由度而定
+- 不必降到太低，示自由度而定，90度即可
 - 沉肩
 
-<img src="./Triceps/v2-a1604d84e34cc493f8904c440e7ac6aa_hd.jpg" width=200>
+<img src="./Triceps/v2-a1604d84e34cc493f8904c440e7ac6aa_hd.jpg" width=300>
 
-#### 3.4.3 俯卧撑 Push up
+Jeff Nipard：[How To Do Dips For A Bigger Chest and Shoulders (Fix Mistakes!)](https://www.youtube.com/watch?v=yN6Q1UI_xkE)
 
-- 双臂尽量靠近身体，远离身体会吃到更多的胸部
-- 沉肩
+
+
+#### 3.4.3 俯卧撑 Push ups
+
+- 窄距俯卧撑：双臂尽量靠近身体
+
+<img src="./Triceps/Screenshot 2019-07-20 at 15.22.42.png" width=200>
+
+- 宽距俯卧撑
+
+<img src="./Triceps/Screenshot 2019-07-20 at 15.22.09.png" width=200>
+
+- 超人俯卧撑
+
+<img src="./Triceps/Screenshot 2019-07-20 at 15.22.57.png" width=250>
+
+#### 3.4.4 绳索/哑铃臂屈伸 Overhead Cable Extension / Skull Crush
+
+<img src="./Triceps/Screenshot 2019-07-27 at 18.57.33.png" width=300>
+
+<img src="./Triceps/Screenshot 2019-07-27 at 18.57.21.png" width=300>
+
+<img src="./Triceps/Screenshot 2019-07-27 at 19.01.04.png" width=250>
 
 [返回顶部](#变形计-WorkoutGuide)
 
@@ -295,7 +322,7 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 - 主练三角肌中束
 
-<img src="./Shoulder/Screenshot 2019-07-18 at 18.29.36.png" width=200>
+<img src="./Shoulder/Screenshot 2019-07-18 at 18.29.36.png" width=250>
 
 
 
@@ -303,7 +330,7 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 - 主练三角肌后束
 
-<img src="./Shoulder/Screenshot 2019-07-18 at 19.12.11.png" width=200>
+<img src="./Shoulder/Screenshot 2019-07-18 at 19.12.11.png" width=250>
 
 
 
@@ -317,7 +344,7 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 
 - 主练斜方肌
 
-<img src="./Shoulder/Screenshot 2019-07-18 at 18.35.59.png" width=200>
+<img src="./Shoulder/Screenshot 2019-07-18 at 18.35.59.png" width=250>
 
 
 
@@ -379,15 +406,25 @@ shuaisoserious：[【亲身经历!】如何强化手臂!大容量手臂训练Vlo
 > - 抓杠不需太宽/在低点时是最自然舒适的位置即可
 > - 握杠位置落在手掌下方
 
-#### 3.6.2 哑铃卧推/上斜卧推 
+#### 3.6.2 上斜哑铃卧推/杠铃卧推 Incline dumbbell/Bench Press
 
+- 自由重量上斜卧推
 
+<img src="./Chest/Screenshot 2019-07-20 at 15.40.54.png" width=200>
 
-#### 3.6.2 器械/绳索夹胸 
+- 杠铃上斜卧推/史密斯卧推
 
+<img src="./Chest/Screenshot 2019-07-20 at 15.43.45.png" width=300>
 
+#### 3.6.2 器械/绳索夹胸 Machine Chest Fly/Cable Crossover
 
-#### 3.6.3 双杠臂屈伸 Chest Dip
+- Machine Chest fly
+
+<img src="./Chest/Screenshot 2019-07-20 at 16.08.00.png" width=250>
+
+- Cable Crossover
+
+<img src="./Chest/Screenshot 2019-07-20 at 15.56.54.png" width=250>
 
 
 
@@ -466,6 +503,8 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 
 <img src="./Back/luomaniya.png" width="200" alt="luomaniya.png" />
 
+<img src="./Leg/Screenshot 2019-07-20 at 15.33.36.png" width=200>
+
 #### 3.7.3 屈腿硬拉 Traditional Deadlift :key:
 
 - 重量最大的硬拉
@@ -493,7 +532,7 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 
 - 负重弓箭步
 
-
+<img src="./Leg/Screenshot 2019-07-20 at 15.33.12.png" width=200>
 
 #### 3.7.5 深蹲辅助训练
 
@@ -501,7 +540,7 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
     - 摸地
     - 转胯
 - 单脚罗马尼亚深蹲
-    
+  
     - 抬起的脚用力往后踩在凳子上
 - 抱着杠片深蹲
 - 仰面躺地/手脚抬起
@@ -538,9 +577,26 @@ Jeff Nippard：[The Most Effective Science-Based Leg Day 2019 (New Upper/Lower S
 
 
 
+### 3.8 腹部
+
+#### 3.8.1 卷腹
+
+- 绳索卷腹
+- 平躺卷腹
+
+#### 3.8.2 腹部训练教程
+
+短腿小萝卜_babycarrot：[【干货】减脂期如何高效打造完美腹肌](https://www.youtube.com/watch?v=o6cMQV0wCNI)
+
+> - 绳索卷腹
+> - 平板举腿
+> - V字摸脚尖（负重）
+> - 悬垂举腿
+> - 绳索转体登山者（腹外斜肌）
 
 
-### 3.8 小肌肉群
+
+### 3.9 小肌肉群
 
 - 招财猫（肩胛骨后侧）
 
