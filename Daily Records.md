@@ -1,6 +1,8 @@
 # Daily Records
 
-## 16 July 2019 | Chest
+## Week 1
+
+### 16 July 2019 | Chest
 
 - Bench Press
 - Machine Chest Fly
@@ -8,7 +10,7 @@
 - Machine Chest Press
 - Chest Dip
 
-## 17 July | Back
+### 17 July | Back
 
 - Pull Ups 2
 - Machine sitdown row
@@ -16,14 +18,14 @@
 - Machine pull down
 - Cable pull over
 
-## 18 July | Legs
+### 18 July | Legs
 
 - Back Squat 80
 - Rominia Deadlift
 - Lunge 10kg + Jump/Squat
 - Machine Leg Press
 
-## 19 July | Shoulders
+### 19 July | Shoulders
 
 - Shoulder Press 12kg
 - Machine Shoulder Press
@@ -32,7 +34,7 @@
 - Cable Rear Fly
 - Bench Press
 
-## 20 July | Arm
+### 20 July | Arm
 
 - Dips
 - Cable Tricep Extension
@@ -41,9 +43,11 @@
 - Dumbbell Hammer Curl
 - Incline Dumbbell Curl
 
-## 21/22 July | Rest
+### 21/22 July | Rest
 
-## 23 July | Chest
+## Week 2
+
+### 23 July | Chest
 
 - Dips
 - Bench Press
@@ -55,7 +59,7 @@
 - Dips
 - Machine Chest Press
 
-## 24 July | Back
+### 24 July | Back
 
 - Machine Sitdown Row
 - Pull Ups Wide Grip 2
@@ -65,7 +69,7 @@
 - Cable Bicep Curl
 - Cable Hummer Curl
 
-## 25 July | Legs
+### 25 July | Legs
 
 - Back Squat 80
 - Romania Deadlift 40
@@ -73,7 +77,7 @@
 - Leg Press 50 
 - Machine Leg Extension 
 
-## 26 July | Shoulders
+### 26 July | Shoulders
 
 - Dumbbell Lateral Raise 6
 - Stand Barbell Row 15
@@ -83,7 +87,7 @@
 - Cable Reverse Fly 5
 - Pull Up (narrow grip)
 
-## 27 July | Arm
+### 27 July | Arm
 
 - Dips
 - Tricep Push down
@@ -101,9 +105,11 @@ Next week add these into programme:
 3. Tricep Skull Crush 
 4. Tricep Overhead Cable Extension 
 
-## 28/29 July | Rest
+### 28/29 July | Rest
 
-## 30 July | Chest
+## Week 3
+
+### 30 July | Chest
 
 - Dumbbell Bench Press 12
 - Machine Chest Fly 18
@@ -111,7 +117,7 @@ Next week add these into programme:
 - Machine Chest Press
 - Chest Dip 
 
-## 31 July | Back
+### 31 July | Back
 
 - Pull Ups body weight x3
 - Machine sitdown row
@@ -119,7 +125,7 @@ Next week add these into programme:
 - Machine pull down
 - Cable pull over
 
-## 1 Aug | Legs
+### 1 Aug | Legs
 
 - Back Squat 80x1
 - Rominia Deadlift 40 x10
@@ -127,7 +133,7 @@ Next week add these into programme:
 - Machine Leg Press 50
 - Leg Extension 18
 
-## 2 Aug | Shoulders | Home Workout
+### 2 Aug | Shoulders | Home Workout
 
 - Dumbbell Lateral Raise 6
 - 哑铃画圆 2
@@ -142,7 +148,7 @@ Next week add these into programme:
 - Push ups
 - 支撑 Leg Raise
 
-## 3 Aug | Arm
+### 3 Aug | Arm
 
 - Tricep Extension
 - Tricep Push down
@@ -152,5 +158,26 @@ Next week add these into programme:
 - Incline Curl
 - Preacher Curl
 
-## 4 Aug | Home Workout
+### 4 Aug | Home Workout
+
+- Push Ups
+- Dips
+- Leg Raise
+- Chair Arm Extension
+- Squat
+- Rominia Squat
+- Jump Around
+
+### 5 Aug | Rest
+
+## Week 4
+
+### 6 Aug | Chest
+
+- Dips
+- Bench Press 45x2
+- Incline Dumbbell Chest Press 12
+- Machine Chest fly 25
+- Machine Chest Press 25
+- Push Ups 
 
