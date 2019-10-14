@@ -498,6 +498,7 @@ shuaisoserious：[【如何练大上胸!】把我爸搭配成一个"潮男"!.The
 2. 肩与肩胛连接肌肉不够强（外旋练习）
 
 3. [杠铃深蹲手背不过去怎么办？深蹲胳膊撇不过去怎么办？](https://zhuanlan.zhihu.com/p/49021992) (改善圆肩)
+4. Jeff Cavalier: [How to Fix Rounded Shoulders(GONE IN 4 STEPS)](https://www.youtube.com/watch?v=oLwTC-lAJws)
 
 
 
