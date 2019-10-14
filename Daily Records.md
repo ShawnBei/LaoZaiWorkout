@@ -181,3 +181,10 @@ Next week add these into programme:
 - Machine Chest Press 25
 - Push Ups 
 
+### 7 Aug | Back
+
+- Pull Ups
+- Machine Row
+- Machine Pull Down
+- Dumbbell Row
+
